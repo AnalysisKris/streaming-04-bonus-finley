@@ -1,0 +1,407 @@
+2023-09-17 19:52:15,010.producer1.INFO ==================================================
+2023-09-17 19:52:15,010.producer1.INFO Today is 2023-09-17 at 07:52 PM
+2023-09-17 19:52:15,010.producer1.INFO Running on: posix Darwin 22.5.0
+2023-09-17 19:52:15,010.producer1.INFO Python version:  3.9.6
+2023-09-17 19:52:15,010.producer1.INFO Python path: /Users/kristenfinley/Documents/streaming-04-bonus-finley/.venv
+2023-09-17 19:52:15,010.producer1.INFO Working dir: /Users/kristenfinley/Documents/streaming-04-bonus-finley
+2023-09-17 19:52:15,010.producer1.INFO ==================================================
+2023-09-17 19:52:15,075.producer1.INFO  [x] Sent 1,Barbie to first_queue_Rank
+2023-09-17 19:52:15,075.producer1.INFO  [x] Sent Barbie,$594,254,460 to second_queue_Gross
+2023-09-17 19:52:18,083.producer1.INFO  [x] Sent 2,The Super Mario Bros. Movie to first_queue_Rank
+2023-09-17 19:52:18,084.producer1.INFO  [x] Sent The Super Mario Bros. Movie,$574,759,600 to second_queue_Gross
+2023-09-17 19:52:21,089.producer1.INFO  [x] Sent 3,Spider-Man: Across the Spider-Verse to first_queue_Rank
+2023-09-17 19:52:21,089.producer1.INFO  [x] Sent Spider-Man: Across the Spider-Verse,$381,178,195 to second_queue_Gross
+2023-09-17 19:52:24,095.producer1.INFO  [x] Sent 4,Guardians of the Galaxy Vol. 3 to first_queue_Rank
+2023-09-17 19:52:24,096.producer1.INFO  [x] Sent Guardians of the Galaxy Vol. 3,$358,995,815 to second_queue_Gross
+2023-09-17 19:52:27,101.producer1.INFO  [x] Sent 5,Oppenheimer to first_queue_Rank
+2023-09-17 19:52:27,102.producer1.INFO  [x] Sent Oppenheimer,$300,144,670 to second_queue_Gross
+2023-09-17 19:52:30,104.producer1.INFO  [x] Sent 6,The Little Mermaid to first_queue_Rank
+2023-09-17 19:52:30,104.producer1.INFO  [x] Sent The Little Mermaid,$297,895,447 to second_queue_Gross
+2023-09-17 19:52:33,110.producer1.INFO  [x] Sent 7,Avatar: The Way of Water to first_queue_Rank
+2023-09-17 19:52:33,111.producer1.INFO  [x] Sent Avatar: The Way of Water,$684,075,767 to second_queue_Gross
+2023-09-17 19:52:36,117.producer1.INFO  [x] Sent 8,Ant-Man and the Wasp: Quantumania to first_queue_Rank
+2023-09-17 19:52:36,118.producer1.INFO  [x] Sent Ant-Man and the Wasp: Quantumania,$214,504,909 to second_queue_Gross
+2023-09-17 19:52:39,125.producer1.INFO  [x] Sent 9,John Wick: Chapter 4 to first_queue_Rank
+2023-09-17 19:52:39,126.producer1.INFO  [x] Sent John Wick: Chapter 4,$187,131,806 to second_queue_Gross
+2023-09-17 19:52:42,131.producer1.INFO  [x] Sent 10,Sound of Freedom to first_queue_Rank
+2023-09-17 19:52:42,132.producer1.INFO  [x] Sent Sound of Freedom,$180,587,629 to second_queue_Gross
+2023-09-17 19:52:45,139.producer1.INFO  [x] Sent 11,Indiana Jones and the Dial of Destiny to first_queue_Rank
+2023-09-17 19:52:45,140.producer1.INFO  [x] Sent Indiana Jones and the Dial of Destiny,$174,116,627 to second_queue_Gross
+2023-09-17 19:52:48,146.producer1.INFO  [x] Sent 12,Mission: Impossible - Dead Reckoning Part One to first_queue_Rank
+2023-09-17 19:52:48,147.producer1.INFO  [x] Sent Mission: Impossible - Dead Reckoning Part One,$168,248,955 to second_queue_Gross
+2023-09-17 19:52:51,149.producer1.INFO  [x] Sent 13,Transformers: Rise of the Beasts to first_queue_Rank
+2023-09-17 19:52:51,150.producer1.INFO  [x] Sent Transformers: Rise of the Beasts,$157,066,392 to second_queue_Gross
+2023-09-17 19:52:54,157.producer1.INFO  [x] Sent 14,Creed III to first_queue_Rank
+2023-09-17 19:52:54,157.producer1.INFO  [x] Sent Creed III,$156,248,615 to second_queue_Gross
+2023-09-17 19:52:57,163.producer1.INFO  [x] Sent 15,Elemental to first_queue_Rank
+2023-09-17 19:52:57,164.producer1.INFO  [x] Sent Elemental,$151,692,473 to second_queue_Gross
+2023-09-17 19:53:00,166.producer1.INFO  [x] Sent 16,Fast X to first_queue_Rank
+2023-09-17 19:53:00,167.producer1.INFO  [x] Sent Fast X,$145,960,660 to second_queue_Gross
+2023-09-17 19:53:03,171.producer1.INFO  [x] Sent 17,Puss in Boots: The Last Wish to first_queue_Rank
+2023-09-17 19:53:03,172.producer1.INFO  [x] Sent Puss in Boots: The Last Wish,$185,535,345 to second_queue_Gross
+2023-09-17 19:53:06,174.producer1.INFO  [x] Sent 18,Scream VI to first_queue_Rank
+2023-09-17 19:53:06,175.producer1.INFO  [x] Sent Scream VI,$108,161,389 to second_queue_Gross
+2023-09-17 19:53:09,181.producer1.INFO  [x] Sent 19,The Flash to first_queue_Rank
+2023-09-17 19:53:09,182.producer1.INFO  [x] Sent The Flash,$108,133,313 to second_queue_Gross
+2023-09-17 19:53:12,186.producer1.INFO  [x] Sent 20,Teenage Mutant Ninja Turtles: Mutant Mayhem to first_queue_Rank
+2023-09-17 19:53:12,187.producer1.INFO  [x] Sent Teenage Mutant Ninja Turtles: Mutant Mayhem,$99,847,538 to second_queue_Gross
+2023-09-17 19:53:15,193.producer1.INFO  [x] Sent 21,M3GAN to first_queue_Rank
+2023-09-17 19:53:15,194.producer1.INFO  [x] Sent M3GAN,$95,043,350 to second_queue_Gross
+2023-09-17 19:53:18,197.producer1.INFO  [x] Sent 22,Dungeons & Dragons: Honor Among Thieves to first_queue_Rank
+2023-09-17 19:53:18,198.producer1.INFO  [x] Sent Dungeons & Dragons: Honor Among Thieves,$93,277,026 to second_queue_Gross
+2023-09-17 19:53:21,205.producer1.INFO  [x] Sent 23,Insidious: The Red Door to first_queue_Rank
+2023-09-17 19:53:21,206.producer1.INFO  [x] Sent Insidious: The Red Door,$82,042,800 to second_queue_Gross
+2023-09-17 19:53:24,212.producer1.INFO  [x] Sent 24,Meg 2: The Trench to first_queue_Rank
+2023-09-17 19:53:24,213.producer1.INFO  [x] Sent Meg 2: The Trench,$74,469,810 to second_queue_Gross
+2023-09-17 19:53:27,214.producer1.INFO  [x] Sent 25,Evil Dead Rise to first_queue_Rank
+2023-09-17 19:53:27,215.producer1.INFO  [x] Sent Evil Dead Rise,$67,233,054 to second_queue_Gross
+2023-09-17 19:53:30,218.producer1.INFO  [x] Sent 26,Cocaine Bear to first_queue_Rank
+2023-09-17 19:53:30,219.producer1.INFO  [x] Sent Cocaine Bear,$64,388,510 to second_queue_Gross
+2023-09-17 19:53:33,228.producer1.INFO  [x] Sent 27,A Man Called Otto to first_queue_Rank
+2023-09-17 19:53:33,229.producer1.INFO  [x] Sent A Man Called Otto,$64,267,657 to second_queue_Gross
+2023-09-17 19:53:36,232.producer1.INFO  [x] Sent 28,Haunted Mansion to first_queue_Rank
+2023-09-17 19:53:36,233.producer1.INFO  [x] Sent Haunted Mansion,$62,291,150 to second_queue_Gross
+2023-09-17 19:53:39,240.producer1.INFO  [x] Sent 29,Shazam! Fury of the Gods to first_queue_Rank
+2023-09-17 19:53:39,241.producer1.INFO  [x] Sent Shazam! Fury of the Gods,$57,638,006 to second_queue_Gross
+2023-09-17 19:53:42,248.producer1.INFO  [x] Sent 30,Air to first_queue_Rank
+2023-09-17 19:53:42,249.producer1.INFO  [x] Sent Air,$52,460,106 to second_queue_Gross
+2023-09-17 19:53:45,255.producer1.INFO  [x] Sent 31,Jesus Revolution to first_queue_Rank
+2023-09-17 19:53:45,255.producer1.INFO  [x] Sent Jesus Revolution,$52,102,987 to second_queue_Gross
+2023-09-17 19:53:48,262.producer1.INFO  [x] Sent 32,No Hard Feelings to first_queue_Rank
+2023-09-17 19:53:48,263.producer1.INFO  [x] Sent No Hard Feelings,$50,452,282 to second_queue_Gross
+2023-09-17 19:53:51,269.producer1.INFO  [x] Sent 33,Blue Beetle to first_queue_Rank
+2023-09-17 19:53:51,270.producer1.INFO  [x] Sent Blue Beetle,$46,566,539 to second_queue_Gross
+2023-09-17 19:53:54,277.producer1.INFO  [x] Sent 34,The Boogeyman to first_queue_Rank
+2023-09-17 19:53:54,278.producer1.INFO  [x] Sent The Boogeyman,$43,244,282 to second_queue_Gross
+2023-09-17 19:53:57,280.producer1.INFO  [x] Sent 35,Talk to Me to first_queue_Rank
+2023-09-17 19:53:57,280.producer1.INFO  [x] Sent Talk to Me,$41,066,389 to second_queue_Gross
+2023-09-17 19:54:00,287.producer1.INFO  [x] Sent 36,80 for Brady to first_queue_Rank
+2023-09-17 19:54:00,288.producer1.INFO  [x] Sent 80 for Brady,$39,330,588 to second_queue_Gross
+2023-09-17 19:54:03,292.producer1.INFO  [x] Sent 37,Knock at the Cabin to first_queue_Rank
+2023-09-17 19:54:03,293.producer1.INFO  [x] Sent Knock at the Cabin,$35,397,980 to second_queue_Gross
+2023-09-17 19:54:06,300.producer1.INFO  [x] Sent 38,Missing to first_queue_Rank
+2023-09-17 19:54:06,301.producer1.INFO  [x] Sent Missing,$32,502,025 to second_queue_Gross
+2023-09-17 19:54:09,306.producer1.INFO  [x] Sent 39,Plane to first_queue_Rank
+2023-09-17 19:54:09,307.producer1.INFO  [x] Sent Plane,$32,111,181 to second_queue_Gross
+2023-09-17 19:54:12,314.producer1.INFO  [x] Sent 40,65 to first_queue_Rank
+2023-09-17 19:54:12,314.producer1.INFO  [x] Sent 65,$32,062,904 to second_queue_Gross
+2023-09-17 19:54:15,317.producer1.INFO  [x] Sent 41,Asteroid City to first_queue_Rank
+2023-09-17 19:54:15,317.producer1.INFO  [x] Sent Asteroid City,$28,049,165 to second_queue_Gross
+2023-09-17 19:54:18,324.producer1.INFO  [x] Sent 42,Magic Mike's Last Dance to first_queue_Rank
+2023-09-17 19:54:18,325.producer1.INFO  [x] Sent Magic Mike's Last Dance,$26,005,156 to second_queue_Gross
+2023-09-17 19:54:21,331.producer1.INFO  [x] Sent 43,Are You There God? It's Me, Margaret. to first_queue_Rank
+2023-09-17 19:54:21,334.producer1.INFO  [x] Sent Are You There God? It's Me, Margaret.,$20,372,406 to second_queue_Gross
+2023-09-17 19:54:24,340.producer1.INFO  [x] Sent 44,The Pope's Exorcist to first_queue_Rank
+2023-09-17 19:54:24,341.producer1.INFO  [x] Sent The Pope's Exorcist,$20,009,380 to second_queue_Gross
+2023-09-17 19:54:27,343.producer1.INFO  [x] Sent 45,Gran Turismo to first_queue_Rank
+2023-09-17 19:54:27,344.producer1.INFO  [x] Sent Gran Turismo,$18,541,753 to second_queue_Gross
+2023-09-17 19:54:30,350.producer1.INFO  [x] Sent 46,The Blackening to first_queue_Rank
+2023-09-17 19:54:30,351.producer1.INFO  [x] Sent The Blackening,$17,707,207 to second_queue_Gross
+2023-09-17 19:54:33,358.producer1.INFO  [x] Sent 47,Book Club: The Next Chapter to first_queue_Rank
+2023-09-17 19:54:33,359.producer1.INFO  [x] Sent Book Club: The Next Chapter,$17,556,340 to second_queue_Gross
+2023-09-17 19:54:36,365.producer1.INFO  [x] Sent 48,Pathaan to first_queue_Rank
+2023-09-17 19:54:36,366.producer1.INFO  [x] Sent Pathaan,$17,487,476 to second_queue_Gross
+2023-09-17 19:54:39,372.producer1.INFO  [x] Sent 49,Black Panther: Wakanda Forever to first_queue_Rank
+2023-09-17 19:54:39,373.producer1.INFO  [x] Sent Black Panther: Wakanda Forever,$453,829,060 to second_queue_Gross
+2023-09-17 19:54:42,379.producer1.INFO  [x] Sent 50,Renfield to first_queue_Rank
+2023-09-17 19:54:42,380.producer1.INFO  [x] Sent Renfield,$17,152,625 to second_queue_Gross
+2023-09-17 19:54:45,388.producer1.INFO  [x] Sent 51,The Covenant to first_queue_Rank
+2023-09-17 19:54:45,389.producer1.INFO  [x] Sent The Covenant,$16,938,039 to second_queue_Gross
+2023-09-17 19:54:48,396.producer1.INFO  [x] Sent 52,Strays to first_queue_Rank
+2023-09-17 19:54:48,397.producer1.INFO  [x] Sent Strays,$16,840,900 to second_queue_Gross
+2023-09-17 19:54:51,403.producer1.INFO  [x] Sent 53,Champions to first_queue_Rank
+2023-09-17 19:54:51,404.producer1.INFO  [x] Sent Champions,$16,271,910 to second_queue_Gross
+2023-09-17 19:54:54,411.producer1.INFO  [x] Sent 54,Ruby Gillman, Teenage Kraken to first_queue_Rank
+2023-09-17 19:54:54,412.producer1.INFO  [x] Sent Ruby Gillman, Teenage Kraken,$15,753,600 to second_queue_Gross
+2023-09-17 19:54:57,418.producer1.INFO  [x] Sent 55,Titanic25 Year Anniversary to first_queue_Rank
+2023-09-17 19:54:57,418.producer1.INFO  [x] Sent Titanic25 Year Anniversary,$15,033,795 to second_queue_Gross
+2023-09-17 19:55:00,422.producer1.INFO  [x] Sent 56,The Last Voyage of the Demeter to first_queue_Rank
+2023-09-17 19:55:00,422.producer1.INFO  [x] Sent The Last Voyage of the Demeter,$13,309,285 to second_queue_Gross
+2023-09-17 19:55:03,425.producer1.INFO  [x] Sent 57,Joy Ride to first_queue_Rank
+2023-09-17 19:55:03,425.producer1.INFO  [x] Sent Joy Ride,$12,897,789 to second_queue_Gross
+2023-09-17 19:55:06,429.producer1.INFO  [x] Sent 58,The Whale to first_queue_Rank
+2023-09-17 19:55:06,430.producer1.INFO  [x] Sent The Whale,$17,463,630 to second_queue_Gross
+2023-09-17 19:55:09,433.producer1.INFO  [x] Sent 59,About My Father to first_queue_Rank
+2023-09-17 19:55:09,434.producer1.INFO  [x] Sent About My Father,$12,089,391 to second_queue_Gross
+2023-09-17 19:55:12,441.producer1.INFO  [x] Sent 60,His Only Son to first_queue_Rank
+2023-09-17 19:55:12,441.producer1.INFO  [x] Sent His Only Son,$12,084,084 to second_queue_Gross
+2023-09-17 19:55:15,449.producer1.INFO  [x] Sent 61,Suzume to first_queue_Rank
+2023-09-17 19:55:15,449.producer1.INFO  [x] Sent Suzume,$10,760,901 to second_queue_Gross
+2023-09-17 19:55:18,456.producer1.INFO  [x] Sent 62,Past Lives to first_queue_Rank
+2023-09-17 19:55:18,457.producer1.INFO  [x] Sent Past Lives,$10,724,951 to second_queue_Gross
+2023-09-17 19:55:21,464.producer1.INFO  [x] Sent 63,The Machine to first_queue_Rank
+2023-09-17 19:55:21,465.producer1.INFO  [x] Sent The Machine,$10,458,331 to second_queue_Gross
+2023-09-17 19:55:24,472.producer1.INFO  [x] Sent 64,Whitney Houston: I Wanna Dance with Somebody to first_queue_Rank
+2023-09-17 19:55:24,473.producer1.INFO  [x] Sent Whitney Houston: I Wanna Dance with Somebody,$23,708,080 to second_queue_Gross
+2023-09-17 19:55:27,480.producer1.INFO  [x] Sent 65,Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village to first_queue_Rank
+2023-09-17 19:55:27,480.producer1.INFO  [x] Sent Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,$10,117,806 to second_queue_Gross
+2023-09-17 19:55:30,482.producer1.INFO  [x] Sent 66,House Party to first_queue_Rank
+2023-09-17 19:55:30,483.producer1.INFO  [x] Sent House Party,$9,002,247 to second_queue_Gross
+2023-09-17 19:55:33,490.producer1.INFO  [x] Sent 67,Everything Everywhere All at Once to first_queue_Rank
+2023-09-17 19:55:33,491.producer1.INFO  [x] Sent Everything Everywhere All at Once,$77,191,785 to second_queue_Gross
+2023-09-17 19:55:36,493.producer1.INFO  [x] Sent 68,Beau Is Afraid to first_queue_Rank
+2023-09-17 19:55:36,496.producer1.INFO  [x] Sent Beau Is Afraid,$8,176,562 to second_queue_Gross
+2023-09-17 19:55:39,503.producer1.INFO  [x] Sent 69,Sisu to first_queue_Rank
+2023-09-17 19:55:39,504.producer1.INFO  [x] Sent Sisu,$7,265,622 to second_queue_Gross
+2023-09-17 19:55:42,511.producer1.INFO  [x] Sent 70,Star Wars: Episode VI - Return of the Jedi2023 Re-release to first_queue_Rank
+2023-09-17 19:55:42,512.producer1.INFO  [x] Sent Star Wars: Episode VI - Return of the Jedi2023 Re-release,$7,259,924 to second_queue_Gross
+2023-09-17 19:55:45,517.producer1.INFO  [x] Sent 71,Operation Fortune: Ruse de Guerre to first_queue_Rank
+2023-09-17 19:55:45,518.producer1.INFO  [x] Sent Operation Fortune: Ruse de Guerre,$6,496,125 to second_queue_Gross
+2023-09-17 19:55:48,525.producer1.INFO  [x] Sent 72,BTS: Yet to Come in Cinemas to first_queue_Rank
+2023-09-17 19:55:48,526.producer1.INFO  [x] Sent BTS: Yet to Come in Cinemas,$8,093,270 to second_queue_Gross
+2023-09-17 19:55:51,533.producer1.INFO  [x] Sent 73,Babylon to first_queue_Rank
+2023-09-17 19:55:51,534.producer1.INFO  [x] Sent Babylon,$15,351,455 to second_queue_Gross
+2023-09-17 19:55:54,541.producer1.INFO  [x] Sent 74,Love Again to first_queue_Rank
+2023-09-17 19:55:54,542.producer1.INFO  [x] Sent Love Again,$6,230,837 to second_queue_Gross
+2023-09-17 19:55:57,548.producer1.INFO  [x] Sent 75,The Fabelmans to first_queue_Rank
+2023-09-17 19:55:57,548.producer1.INFO  [x] Sent The Fabelmans,$17,348,945 to second_queue_Gross
+2023-09-17 19:56:00,555.producer1.INFO  [x] Sent 76,The Chosen Season 3 Finale to first_queue_Rank
+2023-09-17 19:56:00,556.producer1.INFO  [x] Sent The Chosen Season 3 Finale,$5,525,069 to second_queue_Gross
+2023-09-17 19:56:03,563.producer1.INFO  [x] Sent 77,Nefarious to first_queue_Rank
+2023-09-17 19:56:03,564.producer1.INFO  [x] Sent Nefarious,$5,433,685 to second_queue_Gross
+2023-09-17 19:56:06,571.producer1.INFO  [x] Sent 78,Big George Foreman to first_queue_Rank
+2023-09-17 19:56:06,574.producer1.INFO  [x] Sent Big George Foreman,$5,426,772 to second_queue_Gross
+2023-09-17 19:56:09,581.producer1.INFO  [x] Sent 79,Women Talking to first_queue_Rank
+2023-09-17 19:56:09,582.producer1.INFO  [x] Sent Women Talking,$5,456,531 to second_queue_Gross
+2023-09-17 19:56:12,589.producer1.INFO  [x] Sent 80,Infinity Pool to first_queue_Rank
+2023-09-17 19:56:12,590.producer1.INFO  [x] Sent Infinity Pool,$5,078,400 to second_queue_Gross
+2023-09-17 19:56:15,592.producer1.INFO  [x] Sent 81,You Hurt My Feelings to first_queue_Rank
+2023-09-17 19:56:15,592.producer1.INFO  [x] Sent You Hurt My Feelings,$4,830,788 to second_queue_Gross
+2023-09-17 19:56:18,599.producer1.INFO  [x] Sent 82,Kandahar to first_queue_Rank
+2023-09-17 19:56:18,602.producer1.INFO  [x] Sent Kandahar,$4,813,132 to second_queue_Gross
+2023-09-17 19:56:21,609.producer1.INFO  [x] Sent 83,Hypnotic to first_queue_Rank
+2023-09-17 19:56:21,610.producer1.INFO  [x] Sent Hypnotic,$4,500,169 to second_queue_Gross
+2023-09-17 19:56:24,615.producer1.INFO  [x] Sent 84,Marlowe to first_queue_Rank
+2023-09-17 19:56:24,616.producer1.INFO  [x] Sent Marlowe,$4,350,243 to second_queue_Gross
+2023-09-17 19:56:27,620.producer1.INFO  [x] Sent 85,The Amazing Maurice to first_queue_Rank
+2023-09-17 19:56:27,620.producer1.INFO  [x] Sent The Amazing Maurice,$4,303,645 to second_queue_Gross
+2023-09-17 19:56:30,626.producer1.INFO  [x] Sent 86,Mummies to first_queue_Rank
+2023-09-17 19:56:30,626.producer1.INFO  [x] Sent Mummies,$4,275,970 to second_queue_Gross
+2023-09-17 19:56:33,633.producer1.INFO  [x] Sent 87,Retribution to first_queue_Rank
+2023-09-17 19:56:33,633.producer1.INFO  [x] Sent Retribution,$3,821,285 to second_queue_Gross
+2023-09-17 19:56:36,638.producer1.INFO  [x] Sent 88,Ponniyin Selvan: Part Two to first_queue_Rank
+2023-09-17 19:56:36,638.producer1.INFO  [x] Sent Ponniyin Selvan: Part Two,$3,813,000 to second_queue_Gross
+2023-09-17 19:56:39,644.producer1.INFO  [x] Sent 89,Left Behind: Rise of the Antichrist to first_queue_Rank
+2023-09-17 19:56:39,644.producer1.INFO  [x] Sent Left Behind: Rise of the Antichrist,$3,649,422 to second_queue_Gross
+2023-09-17 19:56:42,651.producer1.INFO  [x] Sent 90,Theater Camp to first_queue_Rank
+2023-09-17 19:56:42,652.producer1.INFO  [x] Sent Theater Camp,$3,644,801 to second_queue_Gross
+2023-09-17 19:56:45,657.producer1.INFO  [x] Sent 91,The Journey: A Music Special from Andrea Bocelli to first_queue_Rank
+2023-09-17 19:56:45,658.producer1.INFO  [x] Sent The Journey: A Music Special from Andrea Bocelli,$3,574,915 to second_queue_Gross
+2023-09-17 19:56:48,664.producer1.INFO  [x] Sent 92,Chevalier to first_queue_Rank
+2023-09-17 19:56:48,665.producer1.INFO  [x] Sent Chevalier,$3,541,159 to second_queue_Gross
+2023-09-17 19:56:51,668.producer1.INFO  [x] Sent 93,Mafia Mamma to first_queue_Rank
+2023-09-17 19:56:51,669.producer1.INFO  [x] Sent Mafia Mamma,$3,496,761 to second_queue_Gross
+2023-09-17 19:56:54,671.producer1.INFO  [x] Sent 94,The Wandering Earth II to first_queue_Rank
+2023-09-17 19:56:54,671.producer1.INFO  [x] Sent The Wandering Earth II,$5,023,132 to second_queue_Gross
+2023-09-17 19:56:57,677.producer1.INFO  [x] Sent 95,A Thousand and One to first_queue_Rank
+2023-09-17 19:56:57,677.producer1.INFO  [x] Sent A Thousand and One,$3,400,020 to second_queue_Gross
+2023-09-17 19:57:00,683.producer1.INFO  [x] Sent 96,Violent Night to first_queue_Rank
+2023-09-17 19:57:00,683.producer1.INFO  [x] Sent Violent Night,$50,057,405 to second_queue_Gross
+2023-09-17 19:57:03,689.producer1.INFO  [x] Sent 97,2023 Oscar Nominated Short Films: Live Action to first_queue_Rank
+2023-09-17 19:57:03,689.producer1.INFO  [x] Sent 2023 Oscar Nominated Short Films: Live Action,$3,025,631 to second_queue_Gross
+2023-09-17 19:57:06,696.producer1.INFO  [x] Sent 98,Living to first_queue_Rank
+2023-09-17 19:57:06,697.producer1.INFO  [x] Sent Living,$3,038,113 to second_queue_Gross
+2023-09-17 19:57:09,702.producer1.INFO  [x] Sent 99,The Menu to first_queue_Rank
+2023-09-17 19:57:09,702.producer1.INFO  [x] Sent The Menu,$38,501,125 to second_queue_Gross
+2023-09-17 19:57:12,709.producer1.INFO  [x] Sent 100,The Hill to first_queue_Rank
+2023-09-17 19:57:12,710.producer1.INFO  [x] Sent The Hill,$2,515,612 to second_queue_Gross
+2023-09-17 19:57:15,715.producer1.INFO  [x] Sent 101,Tu Jhoothi Main Makkaar to first_queue_Rank
+2023-09-17 19:57:15,716.producer1.INFO  [x] Sent Tu Jhoothi Main Makkaar,$2,503,604 to second_queue_Gross
+2023-09-17 19:57:18,729.producer1.INFO  [x] Sent 102,Come Out in Jesus Name to first_queue_Rank
+2023-09-17 19:57:18,730.producer1.INFO  [x] Sent Come Out in Jesus Name,$2,500,574 to second_queue_Gross
+2023-09-17 19:57:21,736.producer1.INFO  [x] Sent 103,A Good Person to first_queue_Rank
+2023-09-17 19:57:21,736.producer1.INFO  [x] Sent A Good Person,$2,210,465 to second_queue_Gross
+2023-09-17 19:57:24,742.producer1.INFO  [x] Sent 104,Moving On to first_queue_Rank
+2023-09-17 19:57:24,742.producer1.INFO  [x] Sent Moving On,$2,136,832 to second_queue_Gross
+2023-09-17 19:57:27,690.producer1.INFO  [x] Sent 105,The Miracle Club to first_queue_Rank
+2023-09-17 19:57:27,691.producer1.INFO  [x] Sent The Miracle Club,$2,104,152 to second_queue_Gross
+2023-09-17 19:57:30,696.producer1.INFO  [x] Sent 106,Skinamarink to first_queue_Rank
+2023-09-17 19:57:30,697.producer1.INFO  [x] Sent Skinamarink,$2,052,272 to second_queue_Gross
+2023-09-17 19:57:33,704.producer1.INFO  [x] Sent 107,Jurassic Park2023 Re-release (30th Anniversary) to first_queue_Rank
+2023-09-17 19:57:33,705.producer1.INFO  [x] Sent Jurassic Park2023 Re-release (30th Anniversary),$1,864,240 to second_queue_Gross
+2023-09-17 19:57:36,707.producer1.INFO  [x] Sent 108,Golda to first_queue_Rank
+2023-09-17 19:57:36,708.producer1.INFO  [x] Sent Golda,$1,856,809 to second_queue_Gross
+2023-09-17 19:57:39,710.producer1.INFO  [x] Sent 109,Somewhere in Queens to first_queue_Rank
+2023-09-17 19:57:39,712.producer1.INFO  [x] Sent Somewhere in Queens,$1,802,442 to second_queue_Gross
+2023-09-17 19:57:42,718.producer1.INFO  [x] Sent 110,Jules to first_queue_Rank
+2023-09-17 19:57:42,718.producer1.INFO  [x] Sent Jules,$1,775,876 to second_queue_Gross
+2023-09-17 19:57:45,722.producer1.INFO  [x] Sent 111,Winnie the Pooh: Blood and Honey to first_queue_Rank
+2023-09-17 19:57:45,723.producer1.INFO  [x] Sent Winnie the Pooh: Blood and Honey,$1,750,639 to second_queue_Gross
+2023-09-17 19:57:48,725.producer1.INFO  [x] Sent 112,Fear to first_queue_Rank
+2023-09-17 19:57:48,726.producer1.INFO  [x] Sent Fear,$2,090,261 to second_queue_Gross
+2023-09-17 19:57:51,730.producer1.INFO  [x] Sent 113,Lost in the Stars to first_queue_Rank
+2023-09-17 19:57:51,731.producer1.INFO  [x] Sent Lost in the Stars,$1,721,446 to second_queue_Gross
+2023-09-17 19:57:54,736.producer1.INFO  [x] Sent 114,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond to first_queue_Rank
+2023-09-17 19:57:54,737.producer1.INFO  [x] Sent That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,$1,588,491 to second_queue_Gross
+2023-09-17 19:57:57,739.producer1.INFO  [x] Sent 115,The Banshees of Inisherin to first_queue_Rank
+2023-09-17 19:57:57,739.producer1.INFO  [x] Sent The Banshees of Inisherin,$10,582,266 to second_queue_Gross
+2023-09-17 19:58:00,741.producer1.INFO  [x] Sent 116,Polite Society to first_queue_Rank
+2023-09-17 19:58:00,742.producer1.INFO  [x] Sent Polite Society,$1,545,600 to second_queue_Gross
+2023-09-17 19:58:03,748.producer1.INFO  [x] Sent 117,The Quiet Girl to first_queue_Rank
+2023-09-17 19:58:03,749.producer1.INFO  [x] Sent The Quiet Girl,$1,500,014 to second_queue_Gross
+2023-09-17 19:58:06,755.producer1.INFO  [x] Sent 118,BlackBerry to first_queue_Rank
+2023-09-17 19:58:06,756.producer1.INFO  [x] Sent BlackBerry,$1,476,597 to second_queue_Gross
+2023-09-17 19:58:09,763.producer1.INFO  [x] Sent 119,Spirited Away2023 Re-release (Live on Stage) to first_queue_Rank
+2023-09-17 19:58:09,765.producer1.INFO  [x] Sent Spirited Away2023 Re-release (Live on Stage),$1,455,081 to second_queue_Gross
+2023-09-17 19:58:12,768.producer1.INFO  [x] Sent 120,Oldboy2023 Re-release to first_queue_Rank
+2023-09-17 19:58:12,768.producer1.INFO  [x] Sent Oldboy2023 Re-release,$1,443,314 to second_queue_Gross
+2023-09-17 19:58:15,775.producer1.INFO  [x] Sent 121,Maybe I Do to first_queue_Rank
+2023-09-17 19:58:15,776.producer1.INFO  [x] Sent Maybe I Do,$1,293,722 to second_queue_Gross
+2023-09-17 19:58:18,783.producer1.INFO  [x] Sent 122,Billie Eilish Live at the O2 to first_queue_Rank
+2023-09-17 19:58:18,785.producer1.INFO  [x] Sent Billie Eilish Live at the O2,$1,290,000 to second_queue_Gross
+2023-09-17 19:58:21,792.producer1.INFO  [x] Sent 123,The First Slam Dunk to first_queue_Rank
+2023-09-17 19:58:21,793.producer1.INFO  [x] Sent The First Slam Dunk,$1,256,517 to second_queue_Gross
+2023-09-17 19:58:24,796.producer1.INFO  [x] Sent 124,Tár to first_queue_Rank
+2023-09-17 19:58:24,797.producer1.INFO  [x] Sent Tár,$6,773,650 to second_queue_Gross
+2023-09-17 19:58:27,802.producer1.INFO  [x] Sent 125,The Lost King to first_queue_Rank
+2023-09-17 19:58:27,804.producer1.INFO  [x] Sent The Lost King,$1,188,032 to second_queue_Gross
+2023-09-17 19:58:30,811.producer1.INFO  [x] Sent 126,The Lord of the Rings: The Return of the King20th Anniversary to first_queue_Rank
+2023-09-17 19:58:30,812.producer1.INFO  [x] Sent The Lord of the Rings: The Return of the King20th Anniversary,$1,176,085 to second_queue_Gross
+2023-09-17 19:58:33,818.producer1.INFO  [x] Sent 127,Strange World to first_queue_Rank
+2023-09-17 19:58:33,819.producer1.INFO  [x] Sent Strange World,$37,968,963 to second_queue_Gross
+2023-09-17 19:58:36,825.producer1.INFO  [x] Sent 128,Close to first_queue_Rank
+2023-09-17 19:58:36,825.producer1.INFO  [x] Sent Close,$1,100,113 to second_queue_Gross
+2023-09-17 19:58:39,832.producer1.INFO  [x] Sent 129,Emily to first_queue_Rank
+2023-09-17 19:58:39,834.producer1.INFO  [x] Sent Emily,$1,097,067 to second_queue_Gross
+2023-09-17 19:58:42,835.producer1.INFO  [x] Sent 130,Knights of the Zodiac to first_queue_Rank
+2023-09-17 19:58:42,836.producer1.INFO  [x] Sent Knights of the Zodiac,$1,090,155 to second_queue_Gross
+2023-09-17 19:58:45,842.producer1.INFO  [x] Sent 131,Broker to first_queue_Rank
+2023-09-17 19:58:45,843.producer1.INFO  [x] Sent Broker,$1,046,899 to second_queue_Gross
+2023-09-17 19:58:48,846.producer1.INFO  [x] Sent 132,Showing Up to first_queue_Rank
+2023-09-17 19:58:48,846.producer1.INFO  [x] Sent Showing Up,$754,483 to second_queue_Gross
+2023-09-17 19:58:51,851.producer1.INFO  [x] Sent 133,The Roundup: No Way Out to first_queue_Rank
+2023-09-17 19:58:51,852.producer1.INFO  [x] Sent The Roundup: No Way Out,$909,411 to second_queue_Gross
+2023-09-17 19:58:54,855.producer1.INFO  [x] Sent 134,Inside to first_queue_Rank
+2023-09-17 19:58:54,857.producer1.INFO  [x] Sent Inside,$897,190 to second_queue_Gross
+2023-09-17 19:58:57,863.producer1.INFO  [x] Sent 135,Fool's Paradise to first_queue_Rank
+2023-09-17 19:58:57,864.producer1.INFO  [x] Sent Fool's Paradise,$855,173 to second_queue_Gross
+2023-09-17 19:59:00,865.producer1.INFO  [x] Sent 136,Paint to first_queue_Rank
+2023-09-17 19:59:00,866.producer1.INFO  [x] Sent Paint,$811,739 to second_queue_Gross
+2023-09-17 19:59:03,873.producer1.INFO  [x] Sent 137,Return to Seoul to first_queue_Rank
+2023-09-17 19:59:03,874.producer1.INFO  [x] Sent Return to Seoul,$798,774 to second_queue_Gross
+2023-09-17 19:59:06,881.producer1.INFO  [x] Sent 138,Hidden Blade to first_queue_Rank
+2023-09-17 19:59:06,881.producer1.INFO  [x] Sent Hidden Blade,$803,189 to second_queue_Gross
+2023-09-17 19:59:09,888.producer1.INFO  [x] Sent 139,The Devil Conspiracy to first_queue_Rank
+2023-09-17 19:59:09,889.producer1.INFO  [x] Sent The Devil Conspiracy,$765,218 to second_queue_Gross
+2023-09-17 19:59:12,895.producer1.INFO  [x] Sent 140,Roll with It to first_queue_Rank
+2023-09-17 19:59:12,896.producer1.INFO  [x] Sent Roll with It,$757,981 to second_queue_Gross
+2023-09-17 19:59:15,907.producer1.INFO  [x] Sent 141,How to Blow Up a Pipeline to first_queue_Rank
+2023-09-17 19:59:15,908.producer1.INFO  [x] Sent How to Blow Up a Pipeline,$750,010 to second_queue_Gross
+2023-09-17 19:59:18,912.producer1.INFO  [x] Sent 142,Rally Road Racers to first_queue_Rank
+2023-09-17 19:59:18,914.producer1.INFO  [x] Sent Rally Road Racers,$744,169 to second_queue_Gross
+2023-09-17 19:59:21,917.producer1.INFO  [x] Sent 143,It Ain't Over to first_queue_Rank
+2023-09-17 19:59:21,917.producer1.INFO  [x] Sent It Ain't Over,$705,355 to second_queue_Gross
+2023-09-17 19:59:24,921.producer1.INFO  [x] Sent 144,Devotion to first_queue_Rank
+2023-09-17 19:59:24,922.producer1.INFO  [x] Sent Devotion,$20,511,938 to second_queue_Gross
+2023-09-17 19:59:27,929.producer1.INFO  [x] Sent 145,Master Gardener to first_queue_Rank
+2023-09-17 19:59:27,930.producer1.INFO  [x] Sent Master Gardener,$667,114 to second_queue_Gross
+2023-09-17 19:59:30,936.producer1.INFO  [x] Sent 146,Shortcomings to first_queue_Rank
+2023-09-17 19:59:30,937.producer1.INFO  [x] Sent Shortcomings,$653,780 to second_queue_Gross
+2023-09-17 19:59:33,944.producer1.INFO  [x] Sent 147,Corsage to first_queue_Rank
+2023-09-17 19:59:33,945.producer1.INFO  [x] Sent Corsage,$705,767 to second_queue_Gross
+2023-09-17 19:59:36,952.producer1.INFO  [x] Sent 148,EO to first_queue_Rank
+2023-09-17 19:59:36,953.producer1.INFO  [x] Sent EO,$1,068,782 to second_queue_Gross
+2023-09-17 19:59:39,959.producer1.INFO  [x] Sent 149,Shin Ultraman to first_queue_Rank
+2023-09-17 19:59:39,960.producer1.INFO  [x] Sent Shin Ultraman,$601,490 to second_queue_Gross
+2023-09-17 19:59:42,968.producer1.INFO  [x] Sent 150,The Thorn to first_queue_Rank
+2023-09-17 19:59:42,969.producer1.INFO  [x] Sent The Thorn,$577,004 to second_queue_Gross
+2023-09-17 19:59:45,974.producer1.INFO  [x] Sent 151,The Way2023  Re-release to first_queue_Rank
+2023-09-17 19:59:45,975.producer1.INFO  [x] Sent The Way2023  Re-release,$567,448 to second_queue_Gross
+2023-09-17 19:59:48,977.producer1.INFO  [x] Sent 152,Of an Age to first_queue_Rank
+2023-09-17 19:59:48,978.producer1.INFO  [x] Sent Of an Age,$556,585 to second_queue_Gross
+2023-09-17 19:59:51,985.producer1.INFO  [x] Sent 153,Sweetwater to first_queue_Rank
+2023-09-17 19:59:51,986.producer1.INFO  [x] Sent Sweetwater,$541,633 to second_queue_Gross
+2023-09-17 19:59:54,989.producer1.INFO  [x] Sent 154,Aftersun to first_queue_Rank
+2023-09-17 19:59:54,990.producer1.INFO  [x] Sent Aftersun,$1,658,790 to second_queue_Gross
+2023-09-17 19:59:57,996.producer1.INFO  [x] Sent 155,Consecration to first_queue_Rank
+2023-09-17 19:59:57,996.producer1.INFO  [x] Sent Consecration,$538,551 to second_queue_Gross
+2023-09-17 20:00:01,003.producer1.INFO  [x] Sent 156,Sanctuary to first_queue_Rank
+2023-09-17 20:00:01,004.producer1.INFO  [x] Sent Sanctuary,$535,202 to second_queue_Gross
+2023-09-17 20:00:04,011.producer1.INFO  [x] Sent 157,Bottoms to first_queue_Rank
+2023-09-17 20:00:04,012.producer1.INFO  [x] Sent Bottoms,$533,978 to second_queue_Gross
+2023-09-17 20:00:07,017.producer1.INFO  [x] Sent 158,Triangle of Sadness to first_queue_Rank
+2023-09-17 20:00:07,018.producer1.INFO  [x] Sent Triangle of Sadness,$4,608,096 to second_queue_Gross
+2023-09-17 20:00:10,024.producer1.INFO  [x] Sent 159,Crouching Tiger, Hidden Dragon2023 Re-release to first_queue_Rank
+2023-09-17 20:00:10,025.producer1.INFO  [x] Sent Crouching Tiger, Hidden Dragon2023 Re-release,$451,549 to second_queue_Gross
+2023-09-17 20:00:13,029.producer1.INFO  [x] Sent 160,A Father's Heart to first_queue_Rank
+2023-09-17 20:00:13,030.producer1.INFO  [x] Sent A Father's Heart,$447,912 to second_queue_Gross
+2023-09-17 20:00:16,038.producer1.INFO  [x] Sent 161,The Son to first_queue_Rank
+2023-09-17 20:00:16,039.producer1.INFO  [x] Sent The Son,$449,650 to second_queue_Gross
+2023-09-17 20:00:19,045.producer1.INFO  [x] Sent 162,The Essential Church to first_queue_Rank
+2023-09-17 20:00:19,046.producer1.INFO  [x] Sent The Essential Church,$412,550 to second_queue_Gross
+2023-09-17 20:00:22,053.producer1.INFO  [x] Sent 163,Mending the Line to first_queue_Rank
+2023-09-17 20:00:22,054.producer1.INFO  [x] Sent Mending the Line,$379,890 to second_queue_Gross
+2023-09-17 20:00:25,061.producer1.INFO  [x] Sent 164,CatVideoFest 2023 to first_queue_Rank
+2023-09-17 20:00:25,062.producer1.INFO  [x] Sent CatVideoFest 2023,$327,584 to second_queue_Gross
+2023-09-17 20:00:28,069.producer1.INFO  [x] Sent 165,Go West to first_queue_Rank
+2023-09-17 20:00:28,070.producer1.INFO  [x] Sent Go West,$340,017 to second_queue_Gross
+2023-09-17 20:00:31,076.producer1.INFO  [x] Sent 166,Terrifier to first_queue_Rank
+2023-09-17 20:00:31,076.producer1.INFO  [x] Sent Terrifier,$339,946 to second_queue_Gross
+2023-09-17 20:00:34,082.producer1.INFO  [x] Sent 167,Selfiee to first_queue_Rank
+2023-09-17 20:00:34,085.producer1.INFO  [x] Sent Selfiee,$335,775 to second_queue_Gross
+2023-09-17 20:00:37,091.producer1.INFO  [x] Sent 168,Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb to first_queue_Rank
+2023-09-17 20:00:37,091.producer1.INFO  [x] Sent Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb,$335,417 to second_queue_Gross
+2023-09-17 20:00:40,098.producer1.INFO  [x] Sent 169,Wild Life to first_queue_Rank
+2023-09-17 20:00:40,099.producer1.INFO  [x] Sent Wild Life,$326,184 to second_queue_Gross
+2023-09-17 20:00:43,104.producer1.INFO  [x] Sent 170,Children of the Corn to first_queue_Rank
+2023-09-17 20:00:43,105.producer1.INFO  [x] Sent Children of the Corn,$325,583 to second_queue_Gross
+2023-09-17 20:00:46,107.producer1.INFO  [x] Sent 171,Waltair Veerayya to first_queue_Rank
+2023-09-17 20:00:46,108.producer1.INFO  [x] Sent Waltair Veerayya,$320,000 to second_queue_Gross
+2023-09-17 20:00:49,115.producer1.INFO  [x] Sent 172,The Lesson to first_queue_Rank
+2023-09-17 20:00:49,115.producer1.INFO  [x] Sent The Lesson,$310,746 to second_queue_Gross
+2023-09-17 20:00:52,122.producer1.INFO  [x] Sent 173,Psycho-Pass: Providence to first_queue_Rank
+2023-09-17 20:00:52,123.producer1.INFO  [x] Sent Psycho-Pass: Providence,$309,757 to second_queue_Gross
+2023-09-17 20:00:55,130.producer1.INFO  [x] Sent 174,UFC 291: Poirier vs. Gaethje 2 to first_queue_Rank
+2023-09-17 20:00:55,131.producer1.INFO  [x] Sent UFC 291: Poirier vs. Gaethje 2,$308,825 to second_queue_Gross
+2023-09-17 20:00:58,136.producer1.INFO  [x] Sent 175,Mirando Al Cielo to first_queue_Rank
+2023-09-17 20:00:58,137.producer1.INFO  [x] Sent Mirando Al Cielo,$295,539 to second_queue_Gross
+2023-09-17 20:01:01,143.producer1.INFO  [x] Sent 176,Joyland to first_queue_Rank
+2023-09-17 20:01:01,144.producer1.INFO  [x] Sent Joyland,$302,550 to second_queue_Gross
+2023-09-17 20:01:04,151.producer1.INFO  [x] Sent 177,Passages to first_queue_Rank
+2023-09-17 20:01:04,152.producer1.INFO  [x] Sent Passages,$415,827 to second_queue_Gross
+2023-09-17 20:01:07,159.producer1.INFO  [x] Sent 178,Southern Gospel to first_queue_Rank
+2023-09-17 20:01:07,160.producer1.INFO  [x] Sent Southern Gospel,$293,496 to second_queue_Gross
+2023-09-17 20:01:10,161.producer1.INFO  [x] Sent 179,School of Magical Animals to first_queue_Rank
+2023-09-17 20:01:10,162.producer1.INFO  [x] Sent School of Magical Animals,$288,414 to second_queue_Gross
+2023-09-17 20:01:13,169.producer1.INFO  [x] Sent 180,Dreamin' Wild to first_queue_Rank
+2023-09-17 20:01:13,170.producer1.INFO  [x] Sent Dreamin' Wild,$276,672 to second_queue_Gross
+2023-09-17 20:01:16,178.producer1.INFO  [x] Sent 181,The Eight Mountains to first_queue_Rank
+2023-09-17 20:01:16,178.producer1.INFO  [x] Sent The Eight Mountains,$302,456 to second_queue_Gross
+2023-09-17 20:01:19,181.producer1.INFO  [x] Sent 182,Every Body to first_queue_Rank
+2023-09-17 20:01:19,182.producer1.INFO  [x] Sent Every Body,$273,860 to second_queue_Gross
+2023-09-17 20:01:22,189.producer1.INFO  [x] Sent 183,Empire of Light to first_queue_Rank
+2023-09-17 20:01:22,190.producer1.INFO  [x] Sent Empire of Light,$1,177,577 to second_queue_Gross
+2023-09-17 20:01:25,196.producer1.INFO  [x] Sent 184,Born to Fly to first_queue_Rank
+2023-09-17 20:01:25,197.producer1.INFO  [x] Sent Born to Fly,$277,011 to second_queue_Gross
+2023-09-17 20:01:28,201.producer1.INFO  [x] Sent 185,RRR Fan CelebRRRation2023 Re-release to first_queue_Rank
+2023-09-17 20:01:28,201.producer1.INFO  [x] Sent RRR Fan CelebRRRation2023 Re-release,$256,566 to second_queue_Gross
+2023-09-17 20:01:31,206.producer1.INFO  [x] Sent 186,Malum to first_queue_Rank
+2023-09-17 20:01:31,207.producer1.INFO  [x] Sent Malum,$221,738 to second_queue_Gross
+2023-09-17 20:01:34,214.producer1.INFO  [x] Sent 187,All the Beauty and the Bloodshed to first_queue_Rank
+2023-09-17 20:01:34,214.producer1.INFO  [x] Sent All the Beauty and the Bloodshed,$500,082 to second_queue_Gross
+2023-09-17 20:01:37,221.producer1.INFO  [x] Sent 188,Saint Omer to first_queue_Rank
+2023-09-17 20:01:37,222.producer1.INFO  [x] Sent Saint Omer,$213,953 to second_queue_Gross
+2023-09-17 20:01:40,222.producer1.INFO  [x] Sent 189,Afire to first_queue_Rank
+2023-09-17 20:01:40,223.producer1.INFO  [x] Sent Afire,$204,620 to second_queue_Gross
+2023-09-17 20:01:43,234.producer1.INFO  [x] Sent 190,One Fine Morning to first_queue_Rank
+2023-09-17 20:01:43,235.producer1.INFO  [x] Sent One Fine Morning,$214,470 to second_queue_Gross
+2023-09-17 20:01:46,248.producer1.INFO  [x] Sent 191,Lourdes2022 Re-release to first_queue_Rank
+2023-09-17 20:01:46,249.producer1.INFO  [x] Sent Lourdes2022 Re-release,$197,702 to second_queue_Gross
+2023-09-17 20:01:49,256.producer1.INFO  [x] Sent 192,When You Finish Saving the World to first_queue_Rank
+2023-09-17 20:01:49,257.producer1.INFO  [x] Sent When You Finish Saving the World,$196,920 to second_queue_Gross
+2023-09-17 20:01:52,269.producer1.INFO  [x] Sent 193,Landscape with Invisible Hand to first_queue_Rank
+2023-09-17 20:01:52,270.producer1.INFO  [x] Sent Landscape with Invisible Hand,$193,829 to second_queue_Gross
+2023-09-17 20:01:55,276.producer1.INFO  [x] Sent 194,Lyle, Lyle, Crocodile to first_queue_Rank
+2023-09-17 20:01:55,277.producer1.INFO  [x] Sent Lyle, Lyle, Crocodile,$46,888,441 to second_queue_Gross
+2023-09-17 20:01:58,288.producer1.INFO  [x] Sent 195,The Conformist2023 Re-release to first_queue_Rank
+2023-09-17 20:01:58,289.producer1.INFO  [x] Sent The Conformist2023 Re-release,$180,135 to second_queue_Gross
+2023-09-17 20:02:01,299.producer1.INFO  [x] Sent 196,Contempt4k Restoration - 60th Anniversary to first_queue_Rank
+2023-09-17 20:02:01,300.producer1.INFO  [x] Sent Contempt4k Restoration - 60th Anniversary,$173,816 to second_queue_Gross
+2023-09-17 20:02:04,309.producer1.INFO  [x] Sent 197,The Wrath of Becky to first_queue_Rank
+2023-09-17 20:02:04,310.producer1.INFO  [x] Sent The Wrath of Becky,$168,109 to second_queue_Gross
+2023-09-17 20:02:07,315.producer1.INFO  [x] Sent 198,The Starling Girl to first_queue_Rank
+2023-09-17 20:02:07,316.producer1.INFO  [x] Sent The Starling Girl,$161,290 to second_queue_Gross
+2023-09-17 20:02:10,319.producer1.INFO  [x] Sent 199,¡Que viva México! to first_queue_Rank
+2023-09-17 20:02:10,320.producer1.INFO  [x] Sent ¡Que viva México!,$161,222 to second_queue_Gross
+2023-09-17 20:02:13,325.producer1.INFO  [x] Sent 200,Enys Men to first_queue_Rank
+2023-09-17 20:02:13,326.producer1.INFO  [x] Sent Enys Men,$189,579 to second_queue_Gross

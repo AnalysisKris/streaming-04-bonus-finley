@@ -1,0 +1,12 @@
+2023-09-17 20:14:31,706.consumer2.INFO ==================================================
+2023-09-17 20:14:31,706.consumer2.INFO Today is 2023-09-17 at 08:14 PM
+2023-09-17 20:14:31,706.consumer2.INFO Running on: posix Darwin 22.5.0
+2023-09-17 20:14:31,706.consumer2.INFO Python version:  3.9.6
+2023-09-17 20:14:31,706.consumer2.INFO Python path: /Users/kristenfinley/Documents/streaming-04-bonus-finley/.venv
+2023-09-17 20:14:31,706.consumer2.INFO Working dir: /Users/kristenfinley/Documents/streaming-04-bonus-finley
+2023-09-17 20:14:31,707.consumer2.INFO ==================================================
+2023-09-17 20:14:31,726.consumer2.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-17 20:15:38,063.consumer2.INFO  User interrupted continuous listening process.
+2023-09-17 20:15:38,064.consumer2.INFO 
+Closing connection. Goodbye.
+
