@@ -23,12 +23,13 @@ def callback(ch, method, properties, body):
     logger.info(f" [x] Received {body.decode()}")
     # Decode the binary message body to a string
     recieved_message = body.decode()
-    lower_message = recieved_message.lower()
+    lower_message = str(recieved_message.lower())
     
     # Write new message to a file
     with open("consumer2.csv", "a") as output_file:
         writer = csv.writer(output_file, delimiter=",")
-        writer.writerow([recieved_message, lower_message])
+        writer.writerow(lower_message.split(','))
+        
         
     # when done with task, tell the user
     logger.info(" [x] Done.")

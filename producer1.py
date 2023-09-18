@@ -62,8 +62,8 @@ def send_message(host: str,first_queue_bonus4: str, second_queue_bonus4: str, in
                 Rank,Title,Theaters,Gross,Release,Distributor = row
                 
                 # create a message to send to the queue
-                message1 = str(Rank) + "," + str(Title)
-                message2 = str(Title) + "," + str(Gross)
+                message1 = f"[{Rank},{Title}]"
+                message2 = f"[{Title},{Gross}]"
 
                 # use the channel to publish a message to the queue
                 # every message passes through an exchange
@@ -74,7 +74,7 @@ def send_message(host: str,first_queue_bonus4: str, second_queue_bonus4: str, in
                 ch.basic_publish(exchange="", routing_key=second_queue_bonus4, body=message2)
                 # print a message to the console for the user
                 logger.info(f" [x] Sent {message2} to {second_queue_bonus4}")
-                time.sleep(1)
+                time.sleep(0)
                 
     except pika.exceptions.AMQPConnectionError as e:
         logger.error(f"Error: Connection to RabbitMQ server failed: {e}")
@@ -93,4 +93,4 @@ if __name__ == "__main__":
         # ask the user if they'd like to open the RabbitMQ Admin site
         offer_rabbitmq_admin_site()
             # send the message to the queue
-    send_message("localhost","first_queue_Rank","second_queue_Gross","data1.csv")  
+    send_message("localhost","first_queue_Rank","second_queue_Gross","data1.csv")

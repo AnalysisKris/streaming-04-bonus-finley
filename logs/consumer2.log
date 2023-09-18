@@ -1,12 +1,408 @@
-2023-09-17 20:14:31,706.consumer2.INFO ==================================================
-2023-09-17 20:14:31,706.consumer2.INFO Today is 2023-09-17 at 08:14 PM
-2023-09-17 20:14:31,706.consumer2.INFO Running on: posix Darwin 22.5.0
-2023-09-17 20:14:31,706.consumer2.INFO Python version:  3.9.6
-2023-09-17 20:14:31,706.consumer2.INFO Python path: /Users/kristenfinley/Documents/streaming-04-bonus-finley/.venv
-2023-09-17 20:14:31,706.consumer2.INFO Working dir: /Users/kristenfinley/Documents/streaming-04-bonus-finley
-2023-09-17 20:14:31,707.consumer2.INFO ==================================================
-2023-09-17 20:14:31,726.consumer2.INFO  [*] Ready for work. To exit press CTRL+C
-2023-09-17 20:15:38,063.consumer2.INFO  User interrupted continuous listening process.
-2023-09-17 20:15:38,064.consumer2.INFO 
-Closing connection. Goodbye.
-
+2023-09-17 22:35:09,844.consumer2.INFO ==================================================
+2023-09-17 22:35:09,844.consumer2.INFO Today is 2023-09-17 at 10:35 PM
+2023-09-17 22:35:09,844.consumer2.INFO Running on: posix Darwin 22.5.0
+2023-09-17 22:35:09,844.consumer2.INFO Python version:  3.9.6
+2023-09-17 22:35:09,844.consumer2.INFO Python path: /Users/kristenfinley/Documents/streaming-04-bonus-finley/.venv
+2023-09-17 22:35:09,844.consumer2.INFO Working dir: /Users/kristenfinley/Documents/streaming-04-bonus-finley
+2023-09-17 22:35:09,844.consumer2.INFO ==================================================
+2023-09-17 22:35:09,859.consumer2.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-17 22:35:09,859.consumer2.INFO  [x] Received [Barbie,$594,254,460]
+2023-09-17 22:35:09,859.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,859.consumer2.INFO  [x] Received [The Super Mario Bros. Movie,$574,759,600]
+2023-09-17 22:35:09,860.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,860.consumer2.INFO  [x] Received [Spider-Man: Across the Spider-Verse,$381,178,195]
+2023-09-17 22:35:09,860.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,860.consumer2.INFO  [x] Received [Guardians of the Galaxy Vol. 3,$358,995,815]
+2023-09-17 22:35:09,860.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,861.consumer2.INFO  [x] Received [Oppenheimer,$300,144,670]
+2023-09-17 22:35:09,861.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,861.consumer2.INFO  [x] Received [The Little Mermaid,$297,895,447]
+2023-09-17 22:35:09,861.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,861.consumer2.INFO  [x] Received [Avatar: The Way of Water,$684,075,767]
+2023-09-17 22:35:09,861.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,861.consumer2.INFO  [x] Received [Ant-Man and the Wasp: Quantumania,$214,504,909]
+2023-09-17 22:35:09,862.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,862.consumer2.INFO  [x] Received [John Wick: Chapter 4,$187,131,806]
+2023-09-17 22:35:09,862.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,862.consumer2.INFO  [x] Received [Sound of Freedom,$180,587,629]
+2023-09-17 22:35:09,862.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,862.consumer2.INFO  [x] Received [Indiana Jones and the Dial of Destiny,$174,116,627]
+2023-09-17 22:35:09,863.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,863.consumer2.INFO  [x] Received [Mission: Impossible - Dead Reckoning Part One,$168,248,955]
+2023-09-17 22:35:09,863.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,863.consumer2.INFO  [x] Received [Transformers: Rise of the Beasts,$157,066,392]
+2023-09-17 22:35:09,863.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,863.consumer2.INFO  [x] Received [Creed III,$156,248,615]
+2023-09-17 22:35:09,863.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,864.consumer2.INFO  [x] Received [Elemental,$151,692,473]
+2023-09-17 22:35:09,864.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,864.consumer2.INFO  [x] Received [Fast X,$145,960,660]
+2023-09-17 22:35:09,864.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,864.consumer2.INFO  [x] Received [Puss in Boots: The Last Wish,$185,535,345]
+2023-09-17 22:35:09,864.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,868.consumer2.INFO  [x] Received [Scream VI,$108,161,389]
+2023-09-17 22:35:09,868.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,869.consumer2.INFO  [x] Received [The Flash,$108,133,313]
+2023-09-17 22:35:09,869.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,869.consumer2.INFO  [x] Received [Teenage Mutant Ninja Turtles: Mutant Mayhem,$99,847,538]
+2023-09-17 22:35:09,869.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,870.consumer2.INFO  [x] Received [M3GAN,$95,043,350]
+2023-09-17 22:35:09,870.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,870.consumer2.INFO  [x] Received [Dungeons & Dragons: Honor Among Thieves,$93,277,026]
+2023-09-17 22:35:09,870.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,871.consumer2.INFO  [x] Received [Insidious: The Red Door,$82,042,800]
+2023-09-17 22:35:09,871.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,871.consumer2.INFO  [x] Received [Meg 2: The Trench,$74,469,810]
+2023-09-17 22:35:09,871.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,872.consumer2.INFO  [x] Received [Evil Dead Rise,$67,233,054]
+2023-09-17 22:35:09,872.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,874.consumer2.INFO  [x] Received [Cocaine Bear,$64,388,510]
+2023-09-17 22:35:09,874.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,877.consumer2.INFO  [x] Received [A Man Called Otto,$64,267,657]
+2023-09-17 22:35:09,877.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,877.consumer2.INFO  [x] Received [Haunted Mansion,$62,291,150]
+2023-09-17 22:35:09,877.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,878.consumer2.INFO  [x] Received [Shazam! Fury of the Gods,$57,638,006]
+2023-09-17 22:35:09,878.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,878.consumer2.INFO  [x] Received [Air,$52,460,106]
+2023-09-17 22:35:09,878.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,880.consumer2.INFO  [x] Received [Jesus Revolution,$52,102,987]
+2023-09-17 22:35:09,880.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,884.consumer2.INFO  [x] Received [No Hard Feelings,$50,452,282]
+2023-09-17 22:35:09,884.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,885.consumer2.INFO  [x] Received [Blue Beetle,$46,566,539]
+2023-09-17 22:35:09,885.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,889.consumer2.INFO  [x] Received [The Boogeyman,$43,244,282]
+2023-09-17 22:35:09,889.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,892.consumer2.INFO  [x] Received [Talk to Me,$41,066,389]
+2023-09-17 22:35:09,892.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,892.consumer2.INFO  [x] Received [80 for Brady,$39,330,588]
+2023-09-17 22:35:09,893.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,893.consumer2.INFO  [x] Received [Knock at the Cabin,$35,397,980]
+2023-09-17 22:35:09,893.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,894.consumer2.INFO  [x] Received [Missing,$32,502,025]
+2023-09-17 22:35:09,894.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,894.consumer2.INFO  [x] Received [Plane,$32,111,181]
+2023-09-17 22:35:09,895.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,895.consumer2.INFO  [x] Received [65,$32,062,904]
+2023-09-17 22:35:09,895.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,895.consumer2.INFO  [x] Received [Asteroid City,$28,049,165]
+2023-09-17 22:35:09,895.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,897.consumer2.INFO  [x] Received [Magic Mike's Last Dance,$26,005,156]
+2023-09-17 22:35:09,897.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,899.consumer2.INFO  [x] Received [Are You There God? It's Me, Margaret.,$20,372,406]
+2023-09-17 22:35:09,899.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,899.consumer2.INFO  [x] Received [The Pope's Exorcist,$20,009,380]
+2023-09-17 22:35:09,899.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,900.consumer2.INFO  [x] Received [Gran Turismo,$18,541,753]
+2023-09-17 22:35:09,900.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,900.consumer2.INFO  [x] Received [The Blackening,$17,707,207]
+2023-09-17 22:35:09,900.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,901.consumer2.INFO  [x] Received [Book Club: The Next Chapter,$17,556,340]
+2023-09-17 22:35:09,901.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,901.consumer2.INFO  [x] Received [Pathaan,$17,487,476]
+2023-09-17 22:35:09,901.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,901.consumer2.INFO  [x] Received [Black Panther: Wakanda Forever,$453,829,060]
+2023-09-17 22:35:09,901.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,902.consumer2.INFO  [x] Received [Renfield,$17,152,625]
+2023-09-17 22:35:09,902.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,902.consumer2.INFO  [x] Received [The Covenant,$16,938,039]
+2023-09-17 22:35:09,902.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,902.consumer2.INFO  [x] Received [Strays,$16,840,900]
+2023-09-17 22:35:09,902.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,902.consumer2.INFO  [x] Received [Champions,$16,271,910]
+2023-09-17 22:35:09,903.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,903.consumer2.INFO  [x] Received [Ruby Gillman, Teenage Kraken,$15,753,600]
+2023-09-17 22:35:09,903.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,903.consumer2.INFO  [x] Received [Titanic25 Year Anniversary,$15,033,795]
+2023-09-17 22:35:09,903.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,903.consumer2.INFO  [x] Received [The Last Voyage of the Demeter,$13,309,285]
+2023-09-17 22:35:09,904.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,904.consumer2.INFO  [x] Received [Joy Ride,$12,897,789]
+2023-09-17 22:35:09,904.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,909.consumer2.INFO  [x] Received [The Whale,$17,463,630]
+2023-09-17 22:35:09,909.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,910.consumer2.INFO  [x] Received [About My Father,$12,089,391]
+2023-09-17 22:35:09,910.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,910.consumer2.INFO  [x] Received [His Only Son,$12,084,084]
+2023-09-17 22:35:09,910.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,911.consumer2.INFO  [x] Received [Suzume,$10,760,901]
+2023-09-17 22:35:09,911.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,911.consumer2.INFO  [x] Received [Past Lives,$10,724,951]
+2023-09-17 22:35:09,911.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,911.consumer2.INFO  [x] Received [The Machine,$10,458,331]
+2023-09-17 22:35:09,911.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,912.consumer2.INFO  [x] Received [Whitney Houston: I Wanna Dance with Somebody,$23,708,080]
+2023-09-17 22:35:09,912.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,912.consumer2.INFO  [x] Received [Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,$10,117,806]
+2023-09-17 22:35:09,912.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,923.consumer2.INFO  [x] Received [House Party,$9,002,247]
+2023-09-17 22:35:09,924.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,925.consumer2.INFO  [x] Received [Everything Everywhere All at Once,$77,191,785]
+2023-09-17 22:35:09,925.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,926.consumer2.INFO  [x] Received [Beau Is Afraid,$8,176,562]
+2023-09-17 22:35:09,926.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,926.consumer2.INFO  [x] Received [Sisu,$7,265,622]
+2023-09-17 22:35:09,926.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,927.consumer2.INFO  [x] Received [Star Wars: Episode VI - Return of the Jedi2023 Re-release,$7,259,924]
+2023-09-17 22:35:09,927.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,928.consumer2.INFO  [x] Received [Operation Fortune: Ruse de Guerre,$6,496,125]
+2023-09-17 22:35:09,928.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,928.consumer2.INFO  [x] Received [BTS: Yet to Come in Cinemas,$8,093,270]
+2023-09-17 22:35:09,928.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,935.consumer2.INFO  [x] Received [Babylon,$15,351,455]
+2023-09-17 22:35:09,935.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,935.consumer2.INFO  [x] Received [Love Again,$6,230,837]
+2023-09-17 22:35:09,935.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,936.consumer2.INFO  [x] Received [The Fabelmans,$17,348,945]
+2023-09-17 22:35:09,936.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,936.consumer2.INFO  [x] Received [The Chosen Season 3 Finale,$5,525,069]
+2023-09-17 22:35:09,936.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,936.consumer2.INFO  [x] Received [Nefarious,$5,433,685]
+2023-09-17 22:35:09,937.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,937.consumer2.INFO  [x] Received [Big George Foreman,$5,426,772]
+2023-09-17 22:35:09,937.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,937.consumer2.INFO  [x] Received [Women Talking,$5,456,531]
+2023-09-17 22:35:09,937.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,938.consumer2.INFO  [x] Received [Infinity Pool,$5,078,400]
+2023-09-17 22:35:09,938.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,939.consumer2.INFO  [x] Received [You Hurt My Feelings,$4,830,788]
+2023-09-17 22:35:09,939.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,941.consumer2.INFO  [x] Received [Kandahar,$4,813,132]
+2023-09-17 22:35:09,941.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,942.consumer2.INFO  [x] Received [Hypnotic,$4,500,169]
+2023-09-17 22:35:09,942.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,943.consumer2.INFO  [x] Received [Marlowe,$4,350,243]
+2023-09-17 22:35:09,943.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,943.consumer2.INFO  [x] Received [The Amazing Maurice,$4,303,645]
+2023-09-17 22:35:09,943.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,943.consumer2.INFO  [x] Received [Mummies,$4,275,970]
+2023-09-17 22:35:09,943.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,943.consumer2.INFO  [x] Received [Retribution,$3,821,285]
+2023-09-17 22:35:09,943.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,944.consumer2.INFO  [x] Received [Ponniyin Selvan: Part Two,$3,813,000]
+2023-09-17 22:35:09,944.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,944.consumer2.INFO  [x] Received [Left Behind: Rise of the Antichrist,$3,649,422]
+2023-09-17 22:35:09,944.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,944.consumer2.INFO  [x] Received [Theater Camp,$3,644,801]
+2023-09-17 22:35:09,944.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,945.consumer2.INFO  [x] Received [The Journey: A Music Special from Andrea Bocelli,$3,574,915]
+2023-09-17 22:35:09,945.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,945.consumer2.INFO  [x] Received [Chevalier,$3,541,159]
+2023-09-17 22:35:09,945.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,945.consumer2.INFO  [x] Received [Mafia Mamma,$3,496,761]
+2023-09-17 22:35:09,945.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,945.consumer2.INFO  [x] Received [The Wandering Earth II,$5,023,132]
+2023-09-17 22:35:09,945.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,946.consumer2.INFO  [x] Received [A Thousand and One,$3,400,020]
+2023-09-17 22:35:09,946.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,946.consumer2.INFO  [x] Received [Violent Night,$50,057,405]
+2023-09-17 22:35:09,946.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,947.consumer2.INFO  [x] Received [2023 Oscar Nominated Short Films: Live Action,$3,025,631]
+2023-09-17 22:35:09,947.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,947.consumer2.INFO  [x] Received [Living,$3,038,113]
+2023-09-17 22:35:09,947.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,947.consumer2.INFO  [x] Received [The Menu,$38,501,125]
+2023-09-17 22:35:09,947.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,948.consumer2.INFO  [x] Received [The Hill,$2,515,612]
+2023-09-17 22:35:09,948.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,948.consumer2.INFO  [x] Received [Tu Jhoothi Main Makkaar,$2,503,604]
+2023-09-17 22:35:09,948.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,949.consumer2.INFO  [x] Received [Come Out in Jesus Name,$2,500,574]
+2023-09-17 22:35:09,949.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,949.consumer2.INFO  [x] Received [A Good Person,$2,210,465]
+2023-09-17 22:35:09,949.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,950.consumer2.INFO  [x] Received [Moving On,$2,136,832]
+2023-09-17 22:35:09,950.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,950.consumer2.INFO  [x] Received [The Miracle Club,$2,104,152]
+2023-09-17 22:35:09,951.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,951.consumer2.INFO  [x] Received [Skinamarink,$2,052,272]
+2023-09-17 22:35:09,951.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,951.consumer2.INFO  [x] Received [Jurassic Park2023 Re-release (30th Anniversary),$1,864,240]
+2023-09-17 22:35:09,951.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,951.consumer2.INFO  [x] Received [Golda,$1,856,809]
+2023-09-17 22:35:09,951.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,952.consumer2.INFO  [x] Received [Somewhere in Queens,$1,802,442]
+2023-09-17 22:35:09,952.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,952.consumer2.INFO  [x] Received [Jules,$1,775,876]
+2023-09-17 22:35:09,952.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,952.consumer2.INFO  [x] Received [Winnie the Pooh: Blood and Honey,$1,750,639]
+2023-09-17 22:35:09,952.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,952.consumer2.INFO  [x] Received [Fear,$2,090,261]
+2023-09-17 22:35:09,952.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,953.consumer2.INFO  [x] Received [Lost in the Stars,$1,721,446]
+2023-09-17 22:35:09,953.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,953.consumer2.INFO  [x] Received [That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,$1,588,491]
+2023-09-17 22:35:09,954.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,954.consumer2.INFO  [x] Received [The Banshees of Inisherin,$10,582,266]
+2023-09-17 22:35:09,954.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,954.consumer2.INFO  [x] Received [Polite Society,$1,545,600]
+2023-09-17 22:35:09,954.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,955.consumer2.INFO  [x] Received [The Quiet Girl,$1,500,014]
+2023-09-17 22:35:09,955.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,955.consumer2.INFO  [x] Received [BlackBerry,$1,476,597]
+2023-09-17 22:35:09,955.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,955.consumer2.INFO  [x] Received [Spirited Away2023 Re-release (Live on Stage),$1,455,081]
+2023-09-17 22:35:09,955.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,956.consumer2.INFO  [x] Received [Oldboy2023 Re-release,$1,443,314]
+2023-09-17 22:35:09,956.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,956.consumer2.INFO  [x] Received [Maybe I Do,$1,293,722]
+2023-09-17 22:35:09,956.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,956.consumer2.INFO  [x] Received [Billie Eilish Live at the O2,$1,290,000]
+2023-09-17 22:35:09,957.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,957.consumer2.INFO  [x] Received [The First Slam Dunk,$1,256,517]
+2023-09-17 22:35:09,957.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,958.consumer2.INFO  [x] Received [Tár,$6,773,650]
+2023-09-17 22:35:09,958.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,959.consumer2.INFO  [x] Received [The Lost King,$1,188,032]
+2023-09-17 22:35:09,959.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,960.consumer2.INFO  [x] Received [The Lord of the Rings: The Return of the King20th Anniversary,$1,176,085]
+2023-09-17 22:35:09,960.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,960.consumer2.INFO  [x] Received [Strange World,$37,968,963]
+2023-09-17 22:35:09,960.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,960.consumer2.INFO  [x] Received [Close,$1,100,113]
+2023-09-17 22:35:09,960.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,961.consumer2.INFO  [x] Received [Emily,$1,097,067]
+2023-09-17 22:35:09,961.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,962.consumer2.INFO  [x] Received [Knights of the Zodiac,$1,090,155]
+2023-09-17 22:35:09,962.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,962.consumer2.INFO  [x] Received [Broker,$1,046,899]
+2023-09-17 22:35:09,962.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,962.consumer2.INFO  [x] Received [Showing Up,$754,483]
+2023-09-17 22:35:09,962.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,962.consumer2.INFO  [x] Received [The Roundup: No Way Out,$909,411]
+2023-09-17 22:35:09,962.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,963.consumer2.INFO  [x] Received [Inside,$897,190]
+2023-09-17 22:35:09,963.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,963.consumer2.INFO  [x] Received [Fool's Paradise,$855,173]
+2023-09-17 22:35:09,963.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,964.consumer2.INFO  [x] Received [Paint,$811,739]
+2023-09-17 22:35:09,964.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,964.consumer2.INFO  [x] Received [Return to Seoul,$798,774]
+2023-09-17 22:35:09,964.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,964.consumer2.INFO  [x] Received [Hidden Blade,$803,189]
+2023-09-17 22:35:09,964.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,964.consumer2.INFO  [x] Received [The Devil Conspiracy,$765,218]
+2023-09-17 22:35:09,965.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,965.consumer2.INFO  [x] Received [Roll with It,$757,981]
+2023-09-17 22:35:09,965.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,965.consumer2.INFO  [x] Received [How to Blow Up a Pipeline,$750,010]
+2023-09-17 22:35:09,965.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,966.consumer2.INFO  [x] Received [Rally Road Racers,$744,169]
+2023-09-17 22:35:09,966.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,967.consumer2.INFO  [x] Received [It Ain't Over,$705,355]
+2023-09-17 22:35:09,967.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,967.consumer2.INFO  [x] Received [Devotion,$20,511,938]
+2023-09-17 22:35:09,967.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,967.consumer2.INFO  [x] Received [Master Gardener,$667,114]
+2023-09-17 22:35:09,967.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,967.consumer2.INFO  [x] Received [Shortcomings,$653,780]
+2023-09-17 22:35:09,968.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,968.consumer2.INFO  [x] Received [Corsage,$705,767]
+2023-09-17 22:35:09,968.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,968.consumer2.INFO  [x] Received [EO,$1,068,782]
+2023-09-17 22:35:09,968.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,969.consumer2.INFO  [x] Received [Shin Ultraman,$601,490]
+2023-09-17 22:35:09,969.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,969.consumer2.INFO  [x] Received [The Thorn,$577,004]
+2023-09-17 22:35:09,969.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,969.consumer2.INFO  [x] Received [The Way2023  Re-release,$567,448]
+2023-09-17 22:35:09,969.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,970.consumer2.INFO  [x] Received [Of an Age,$556,585]
+2023-09-17 22:35:09,970.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,970.consumer2.INFO  [x] Received [Sweetwater,$541,633]
+2023-09-17 22:35:09,970.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,970.consumer2.INFO  [x] Received [Aftersun,$1,658,790]
+2023-09-17 22:35:09,970.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,970.consumer2.INFO  [x] Received [Consecration,$538,551]
+2023-09-17 22:35:09,970.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,971.consumer2.INFO  [x] Received [Sanctuary,$535,202]
+2023-09-17 22:35:09,971.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,971.consumer2.INFO  [x] Received [Bottoms,$533,978]
+2023-09-17 22:35:09,971.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,973.consumer2.INFO  [x] Received [Triangle of Sadness,$4,608,096]
+2023-09-17 22:35:09,973.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,983.consumer2.INFO  [x] Received [Crouching Tiger, Hidden Dragon2023 Re-release,$451,549]
+2023-09-17 22:35:09,983.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,998.consumer2.INFO  [x] Received [A Father's Heart,$447,912]
+2023-09-17 22:35:09,998.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,999.consumer2.INFO  [x] Received [The Son,$449,650]
+2023-09-17 22:35:09,999.consumer2.INFO  [x] Done.
+2023-09-17 22:35:09,999.consumer2.INFO  [x] Received [The Essential Church,$412,550]
+2023-09-17 22:35:09,999.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,000.consumer2.INFO  [x] Received [Mending the Line,$379,890]
+2023-09-17 22:35:10,000.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,000.consumer2.INFO  [x] Received [CatVideoFest 2023,$327,584]
+2023-09-17 22:35:10,000.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,000.consumer2.INFO  [x] Received [Go West,$340,017]
+2023-09-17 22:35:10,000.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,001.consumer2.INFO  [x] Received [Terrifier,$339,946]
+2023-09-17 22:35:10,001.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,001.consumer2.INFO  [x] Received [Selfiee,$335,775]
+2023-09-17 22:35:10,001.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,001.consumer2.INFO  [x] Received [Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb,$335,417]
+2023-09-17 22:35:10,001.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,001.consumer2.INFO  [x] Received [Wild Life,$326,184]
+2023-09-17 22:35:10,002.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,002.consumer2.INFO  [x] Received [Children of the Corn,$325,583]
+2023-09-17 22:35:10,002.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,002.consumer2.INFO  [x] Received [Waltair Veerayya,$320,000]
+2023-09-17 22:35:10,002.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,002.consumer2.INFO  [x] Received [The Lesson,$310,746]
+2023-09-17 22:35:10,002.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,003.consumer2.INFO  [x] Received [Psycho-Pass: Providence,$309,757]
+2023-09-17 22:35:10,003.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,004.consumer2.INFO  [x] Received [UFC 291: Poirier vs. Gaethje 2,$308,825]
+2023-09-17 22:35:10,004.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,004.consumer2.INFO  [x] Received [Mirando Al Cielo,$295,539]
+2023-09-17 22:35:10,005.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,006.consumer2.INFO  [x] Received [Joyland,$302,550]
+2023-09-17 22:35:10,006.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,006.consumer2.INFO  [x] Received [Passages,$415,827]
+2023-09-17 22:35:10,006.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,006.consumer2.INFO  [x] Received [Southern Gospel,$293,496]
+2023-09-17 22:35:10,006.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,007.consumer2.INFO  [x] Received [School of Magical Animals,$288,414]
+2023-09-17 22:35:10,007.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,007.consumer2.INFO  [x] Received [Dreamin' Wild,$276,672]
+2023-09-17 22:35:10,007.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,007.consumer2.INFO  [x] Received [The Eight Mountains,$302,456]
+2023-09-17 22:35:10,007.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,008.consumer2.INFO  [x] Received [Every Body,$273,860]
+2023-09-17 22:35:10,008.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,009.consumer2.INFO  [x] Received [Empire of Light,$1,177,577]
+2023-09-17 22:35:10,009.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,009.consumer2.INFO  [x] Received [Born to Fly,$277,011]
+2023-09-17 22:35:10,009.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,010.consumer2.INFO  [x] Received [RRR Fan CelebRRRation2023 Re-release,$256,566]
+2023-09-17 22:35:10,010.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,010.consumer2.INFO  [x] Received [Malum,$221,738]
+2023-09-17 22:35:10,010.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,011.consumer2.INFO  [x] Received [All the Beauty and the Bloodshed,$500,082]
+2023-09-17 22:35:10,011.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,011.consumer2.INFO  [x] Received [Saint Omer,$213,953]
+2023-09-17 22:35:10,011.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,011.consumer2.INFO  [x] Received [Afire,$204,620]
+2023-09-17 22:35:10,011.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,012.consumer2.INFO  [x] Received [One Fine Morning,$214,470]
+2023-09-17 22:35:10,012.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,012.consumer2.INFO  [x] Received [Lourdes2022 Re-release,$197,702]
+2023-09-17 22:35:10,012.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,012.consumer2.INFO  [x] Received [When You Finish Saving the World,$196,920]
+2023-09-17 22:35:10,012.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,012.consumer2.INFO  [x] Received [Landscape with Invisible Hand,$193,829]
+2023-09-17 22:35:10,012.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,013.consumer2.INFO  [x] Received [Lyle, Lyle, Crocodile,$46,888,441]
+2023-09-17 22:35:10,013.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,013.consumer2.INFO  [x] Received [The Conformist2023 Re-release,$180,135]
+2023-09-17 22:35:10,013.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,013.consumer2.INFO  [x] Received [Contempt4k Restoration - 60th Anniversary,$173,816]
+2023-09-17 22:35:10,013.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,014.consumer2.INFO  [x] Received [The Wrath of Becky,$168,109]
+2023-09-17 22:35:10,014.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,014.consumer2.INFO  [x] Received [The Starling Girl,$161,290]
+2023-09-17 22:35:10,015.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,015.consumer2.INFO  [x] Received [¡Que viva México!,$161,222]
+2023-09-17 22:35:10,015.consumer2.INFO  [x] Done.
+2023-09-17 22:35:10,015.consumer2.INFO  [x] Received [Enys Men,$189,579]
+2023-09-17 22:35:10,015.consumer2.INFO  [x] Done.

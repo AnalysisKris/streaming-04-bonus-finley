@@ -1,12 +1,408 @@
-2023-09-17 20:14:14,670.consumer1.INFO ==================================================
-2023-09-17 20:14:14,670.consumer1.INFO Today is 2023-09-17 at 08:14 PM
-2023-09-17 20:14:14,670.consumer1.INFO Running on: posix Darwin 22.5.0
-2023-09-17 20:14:14,670.consumer1.INFO Python version:  3.9.6
-2023-09-17 20:14:14,670.consumer1.INFO Python path: /Users/kristenfinley/Documents/streaming-04-bonus-finley/.venv
-2023-09-17 20:14:14,670.consumer1.INFO Working dir: /Users/kristenfinley/Documents/streaming-04-bonus-finley
-2023-09-17 20:14:14,670.consumer1.INFO ==================================================
-2023-09-17 20:14:14,697.consumer1.INFO  [*] Ready for work. To exit press CTRL+C
-2023-09-17 20:14:28,471.consumer1.INFO  User interrupted continuous listening process.
-2023-09-17 20:14:28,471.consumer1.INFO 
-Closing connection. Goodbye.
-
+2023-09-17 22:32:51,859.consumer1.INFO ==================================================
+2023-09-17 22:32:51,859.consumer1.INFO Today is 2023-09-17 at 10:32 PM
+2023-09-17 22:32:51,859.consumer1.INFO Running on: posix Darwin 22.5.0
+2023-09-17 22:32:51,859.consumer1.INFO Python version:  3.9.6
+2023-09-17 22:32:51,859.consumer1.INFO Python path: /Users/kristenfinley/Documents/streaming-04-bonus-finley/.venv
+2023-09-17 22:32:51,859.consumer1.INFO Working dir: /Users/kristenfinley/Documents/streaming-04-bonus-finley
+2023-09-17 22:32:51,859.consumer1.INFO ==================================================
+2023-09-17 22:32:51,887.consumer1.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-17 22:32:51,887.consumer1.INFO  [x] Received [1,Barbie]
+2023-09-17 22:32:51,887.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,888.consumer1.INFO  [x] Received [2,The Super Mario Bros. Movie]
+2023-09-17 22:32:51,888.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,889.consumer1.INFO  [x] Received [3,Spider-Man: Across the Spider-Verse]
+2023-09-17 22:32:51,889.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,889.consumer1.INFO  [x] Received [4,Guardians of the Galaxy Vol. 3]
+2023-09-17 22:32:51,889.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,890.consumer1.INFO  [x] Received [5,Oppenheimer]
+2023-09-17 22:32:51,890.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,890.consumer1.INFO  [x] Received [6,The Little Mermaid]
+2023-09-17 22:32:51,890.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,890.consumer1.INFO  [x] Received [7,Avatar: The Way of Water]
+2023-09-17 22:32:51,890.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,891.consumer1.INFO  [x] Received [8,Ant-Man and the Wasp: Quantumania]
+2023-09-17 22:32:51,891.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,891.consumer1.INFO  [x] Received [9,John Wick: Chapter 4]
+2023-09-17 22:32:51,891.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,891.consumer1.INFO  [x] Received [10,Sound of Freedom]
+2023-09-17 22:32:51,891.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,892.consumer1.INFO  [x] Received [11,Indiana Jones and the Dial of Destiny]
+2023-09-17 22:32:51,892.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,892.consumer1.INFO  [x] Received [12,Mission: Impossible - Dead Reckoning Part One]
+2023-09-17 22:32:51,892.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,892.consumer1.INFO  [x] Received [13,Transformers: Rise of the Beasts]
+2023-09-17 22:32:51,892.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,893.consumer1.INFO  [x] Received [14,Creed III]
+2023-09-17 22:32:51,893.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,893.consumer1.INFO  [x] Received [15,Elemental]
+2023-09-17 22:32:51,893.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,893.consumer1.INFO  [x] Received [16,Fast X]
+2023-09-17 22:32:51,893.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,894.consumer1.INFO  [x] Received [17,Puss in Boots: The Last Wish]
+2023-09-17 22:32:51,894.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,895.consumer1.INFO  [x] Received [18,Scream VI]
+2023-09-17 22:32:51,895.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,895.consumer1.INFO  [x] Received [19,The Flash]
+2023-09-17 22:32:51,895.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,895.consumer1.INFO  [x] Received [20,Teenage Mutant Ninja Turtles: Mutant Mayhem]
+2023-09-17 22:32:51,896.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,896.consumer1.INFO  [x] Received [21,M3GAN]
+2023-09-17 22:32:51,896.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,896.consumer1.INFO  [x] Received [22,Dungeons & Dragons: Honor Among Thieves]
+2023-09-17 22:32:51,897.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,897.consumer1.INFO  [x] Received [23,Insidious: The Red Door]
+2023-09-17 22:32:51,897.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,897.consumer1.INFO  [x] Received [24,Meg 2: The Trench]
+2023-09-17 22:32:51,897.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,897.consumer1.INFO  [x] Received [25,Evil Dead Rise]
+2023-09-17 22:32:51,898.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,898.consumer1.INFO  [x] Received [26,Cocaine Bear]
+2023-09-17 22:32:51,898.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,898.consumer1.INFO  [x] Received [27,A Man Called Otto]
+2023-09-17 22:32:51,898.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,899.consumer1.INFO  [x] Received [28,Haunted Mansion]
+2023-09-17 22:32:51,899.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,899.consumer1.INFO  [x] Received [29,Shazam! Fury of the Gods]
+2023-09-17 22:32:51,899.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,899.consumer1.INFO  [x] Received [30,Air]
+2023-09-17 22:32:51,900.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,900.consumer1.INFO  [x] Received [31,Jesus Revolution]
+2023-09-17 22:32:51,900.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,900.consumer1.INFO  [x] Received [32,No Hard Feelings]
+2023-09-17 22:32:51,900.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,901.consumer1.INFO  [x] Received [33,Blue Beetle]
+2023-09-17 22:32:51,901.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,901.consumer1.INFO  [x] Received [34,The Boogeyman]
+2023-09-17 22:32:51,901.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,901.consumer1.INFO  [x] Received [35,Talk to Me]
+2023-09-17 22:32:51,901.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,902.consumer1.INFO  [x] Received [36,80 for Brady]
+2023-09-17 22:32:51,902.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,902.consumer1.INFO  [x] Received [37,Knock at the Cabin]
+2023-09-17 22:32:51,902.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,902.consumer1.INFO  [x] Received [38,Missing]
+2023-09-17 22:32:51,902.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,903.consumer1.INFO  [x] Received [39,Plane]
+2023-09-17 22:32:51,903.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,903.consumer1.INFO  [x] Received [40,65]
+2023-09-17 22:32:51,903.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,903.consumer1.INFO  [x] Received [41,Asteroid City]
+2023-09-17 22:32:51,904.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,904.consumer1.INFO  [x] Received [42,Magic Mike's Last Dance]
+2023-09-17 22:32:51,904.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,906.consumer1.INFO  [x] Received [43,Are You There God? It's Me, Margaret.]
+2023-09-17 22:32:51,906.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,907.consumer1.INFO  [x] Received [44,The Pope's Exorcist]
+2023-09-17 22:32:51,907.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,907.consumer1.INFO  [x] Received [45,Gran Turismo]
+2023-09-17 22:32:51,907.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,907.consumer1.INFO  [x] Received [46,The Blackening]
+2023-09-17 22:32:51,907.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,908.consumer1.INFO  [x] Received [47,Book Club: The Next Chapter]
+2023-09-17 22:32:51,908.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,908.consumer1.INFO  [x] Received [48,Pathaan]
+2023-09-17 22:32:51,908.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,908.consumer1.INFO  [x] Received [49,Black Panther: Wakanda Forever]
+2023-09-17 22:32:51,908.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,909.consumer1.INFO  [x] Received [50,Renfield]
+2023-09-17 22:32:51,909.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,909.consumer1.INFO  [x] Received [51,The Covenant]
+2023-09-17 22:32:51,909.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,909.consumer1.INFO  [x] Received [52,Strays]
+2023-09-17 22:32:51,909.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,910.consumer1.INFO  [x] Received [53,Champions]
+2023-09-17 22:32:51,910.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,910.consumer1.INFO  [x] Received [54,Ruby Gillman, Teenage Kraken]
+2023-09-17 22:32:51,910.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,910.consumer1.INFO  [x] Received [55,Titanic25 Year Anniversary]
+2023-09-17 22:32:51,910.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,911.consumer1.INFO  [x] Received [56,The Last Voyage of the Demeter]
+2023-09-17 22:32:51,911.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,911.consumer1.INFO  [x] Received [57,Joy Ride]
+2023-09-17 22:32:51,911.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,911.consumer1.INFO  [x] Received [58,The Whale]
+2023-09-17 22:32:51,911.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,912.consumer1.INFO  [x] Received [59,About My Father]
+2023-09-17 22:32:51,912.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,912.consumer1.INFO  [x] Received [60,His Only Son]
+2023-09-17 22:32:51,912.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,912.consumer1.INFO  [x] Received [61,Suzume]
+2023-09-17 22:32:51,912.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,913.consumer1.INFO  [x] Received [62,Past Lives]
+2023-09-17 22:32:51,913.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,914.consumer1.INFO  [x] Received [63,The Machine]
+2023-09-17 22:32:51,914.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,914.consumer1.INFO  [x] Received [64,Whitney Houston: I Wanna Dance with Somebody]
+2023-09-17 22:32:51,914.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,915.consumer1.INFO  [x] Received [65,Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village]
+2023-09-17 22:32:51,915.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,915.consumer1.INFO  [x] Received [66,House Party]
+2023-09-17 22:32:51,915.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,915.consumer1.INFO  [x] Received [67,Everything Everywhere All at Once]
+2023-09-17 22:32:51,915.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,916.consumer1.INFO  [x] Received [68,Beau Is Afraid]
+2023-09-17 22:32:51,916.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,917.consumer1.INFO  [x] Received [69,Sisu]
+2023-09-17 22:32:51,917.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,917.consumer1.INFO  [x] Received [70,Star Wars: Episode VI - Return of the Jedi2023 Re-release]
+2023-09-17 22:32:51,917.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,917.consumer1.INFO  [x] Received [71,Operation Fortune: Ruse de Guerre]
+2023-09-17 22:32:51,917.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,918.consumer1.INFO  [x] Received [72,BTS: Yet to Come in Cinemas]
+2023-09-17 22:32:51,918.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,918.consumer1.INFO  [x] Received [73,Babylon]
+2023-09-17 22:32:51,918.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,918.consumer1.INFO  [x] Received [74,Love Again]
+2023-09-17 22:32:51,918.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,919.consumer1.INFO  [x] Received [75,The Fabelmans]
+2023-09-17 22:32:51,919.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,920.consumer1.INFO  [x] Received [76,The Chosen Season 3 Finale]
+2023-09-17 22:32:51,920.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,921.consumer1.INFO  [x] Received [77,Nefarious]
+2023-09-17 22:32:51,922.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,922.consumer1.INFO  [x] Received [78,Big George Foreman]
+2023-09-17 22:32:51,922.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,922.consumer1.INFO  [x] Received [79,Women Talking]
+2023-09-17 22:32:51,922.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,922.consumer1.INFO  [x] Received [80,Infinity Pool]
+2023-09-17 22:32:51,922.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,923.consumer1.INFO  [x] Received [81,You Hurt My Feelings]
+2023-09-17 22:32:51,923.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,923.consumer1.INFO  [x] Received [82,Kandahar]
+2023-09-17 22:32:51,923.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,923.consumer1.INFO  [x] Received [83,Hypnotic]
+2023-09-17 22:32:51,923.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,924.consumer1.INFO  [x] Received [84,Marlowe]
+2023-09-17 22:32:51,924.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,924.consumer1.INFO  [x] Received [85,The Amazing Maurice]
+2023-09-17 22:32:51,924.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,924.consumer1.INFO  [x] Received [86,Mummies]
+2023-09-17 22:32:51,924.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,924.consumer1.INFO  [x] Received [87,Retribution]
+2023-09-17 22:32:51,924.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,925.consumer1.INFO  [x] Received [88,Ponniyin Selvan: Part Two]
+2023-09-17 22:32:51,925.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,925.consumer1.INFO  [x] Received [89,Left Behind: Rise of the Antichrist]
+2023-09-17 22:32:51,925.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,925.consumer1.INFO  [x] Received [90,Theater Camp]
+2023-09-17 22:32:51,925.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,926.consumer1.INFO  [x] Received [91,The Journey: A Music Special from Andrea Bocelli]
+2023-09-17 22:32:51,926.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,926.consumer1.INFO  [x] Received [92,Chevalier]
+2023-09-17 22:32:51,926.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,930.consumer1.INFO  [x] Received [93,Mafia Mamma]
+2023-09-17 22:32:51,930.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,930.consumer1.INFO  [x] Received [94,The Wandering Earth II]
+2023-09-17 22:32:51,931.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,931.consumer1.INFO  [x] Received [95,A Thousand and One]
+2023-09-17 22:32:51,931.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,931.consumer1.INFO  [x] Received [96,Violent Night]
+2023-09-17 22:32:51,931.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,932.consumer1.INFO  [x] Received [97,2023 Oscar Nominated Short Films: Live Action]
+2023-09-17 22:32:51,932.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,932.consumer1.INFO  [x] Received [98,Living]
+2023-09-17 22:32:51,932.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,932.consumer1.INFO  [x] Received [99,The Menu]
+2023-09-17 22:32:51,932.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,933.consumer1.INFO  [x] Received [100,The Hill]
+2023-09-17 22:32:51,933.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,933.consumer1.INFO  [x] Received [101,Tu Jhoothi Main Makkaar]
+2023-09-17 22:32:51,933.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,933.consumer1.INFO  [x] Received [102,Come Out in Jesus Name]
+2023-09-17 22:32:51,933.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,934.consumer1.INFO  [x] Received [103,A Good Person]
+2023-09-17 22:32:51,934.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,934.consumer1.INFO  [x] Received [104,Moving On]
+2023-09-17 22:32:51,934.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,934.consumer1.INFO  [x] Received [105,The Miracle Club]
+2023-09-17 22:32:51,934.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,934.consumer1.INFO  [x] Received [106,Skinamarink]
+2023-09-17 22:32:51,935.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,935.consumer1.INFO  [x] Received [107,Jurassic Park2023 Re-release (30th Anniversary)]
+2023-09-17 22:32:51,935.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,935.consumer1.INFO  [x] Received [108,Golda]
+2023-09-17 22:32:51,935.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,935.consumer1.INFO  [x] Received [109,Somewhere in Queens]
+2023-09-17 22:32:51,936.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,936.consumer1.INFO  [x] Received [110,Jules]
+2023-09-17 22:32:51,936.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,936.consumer1.INFO  [x] Received [111,Winnie the Pooh: Blood and Honey]
+2023-09-17 22:32:51,936.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,936.consumer1.INFO  [x] Received [112,Fear]
+2023-09-17 22:32:51,936.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,940.consumer1.INFO  [x] Received [113,Lost in the Stars]
+2023-09-17 22:32:51,940.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,940.consumer1.INFO  [x] Received [114,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond]
+2023-09-17 22:32:51,940.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,941.consumer1.INFO  [x] Received [115,The Banshees of Inisherin]
+2023-09-17 22:32:51,941.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,942.consumer1.INFO  [x] Received [116,Polite Society]
+2023-09-17 22:32:51,942.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,942.consumer1.INFO  [x] Received [117,The Quiet Girl]
+2023-09-17 22:32:51,942.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,943.consumer1.INFO  [x] Received [118,BlackBerry]
+2023-09-17 22:32:51,943.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,943.consumer1.INFO  [x] Received [119,Spirited Away2023 Re-release (Live on Stage)]
+2023-09-17 22:32:51,943.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,943.consumer1.INFO  [x] Received [120,Oldboy2023 Re-release]
+2023-09-17 22:32:51,943.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,944.consumer1.INFO  [x] Received [121,Maybe I Do]
+2023-09-17 22:32:51,944.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,944.consumer1.INFO  [x] Received [122,Billie Eilish Live at the O2]
+2023-09-17 22:32:51,944.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,944.consumer1.INFO  [x] Received [123,The First Slam Dunk]
+2023-09-17 22:32:51,944.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,945.consumer1.INFO  [x] Received [124,Tár]
+2023-09-17 22:32:51,945.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,945.consumer1.INFO  [x] Received [125,The Lost King]
+2023-09-17 22:32:51,945.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,946.consumer1.INFO  [x] Received [126,The Lord of the Rings: The Return of the King20th Anniversary]
+2023-09-17 22:32:51,946.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,947.consumer1.INFO  [x] Received [127,Strange World]
+2023-09-17 22:32:51,947.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,947.consumer1.INFO  [x] Received [128,Close]
+2023-09-17 22:32:51,947.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,948.consumer1.INFO  [x] Received [129,Emily]
+2023-09-17 22:32:51,948.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,949.consumer1.INFO  [x] Received [130,Knights of the Zodiac]
+2023-09-17 22:32:51,949.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,949.consumer1.INFO  [x] Received [131,Broker]
+2023-09-17 22:32:51,949.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,949.consumer1.INFO  [x] Received [132,Showing Up]
+2023-09-17 22:32:51,949.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,950.consumer1.INFO  [x] Received [133,The Roundup: No Way Out]
+2023-09-17 22:32:51,950.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,950.consumer1.INFO  [x] Received [134,Inside]
+2023-09-17 22:32:51,950.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,950.consumer1.INFO  [x] Received [135,Fool's Paradise]
+2023-09-17 22:32:51,950.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,950.consumer1.INFO  [x] Received [136,Paint]
+2023-09-17 22:32:51,950.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,951.consumer1.INFO  [x] Received [137,Return to Seoul]
+2023-09-17 22:32:51,951.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,951.consumer1.INFO  [x] Received [138,Hidden Blade]
+2023-09-17 22:32:51,951.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,952.consumer1.INFO  [x] Received [139,The Devil Conspiracy]
+2023-09-17 22:32:51,952.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,952.consumer1.INFO  [x] Received [140,Roll with It]
+2023-09-17 22:32:51,952.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,952.consumer1.INFO  [x] Received [141,How to Blow Up a Pipeline]
+2023-09-17 22:32:51,952.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,953.consumer1.INFO  [x] Received [142,Rally Road Racers]
+2023-09-17 22:32:51,953.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,953.consumer1.INFO  [x] Received [143,It Ain't Over]
+2023-09-17 22:32:51,953.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,954.consumer1.INFO  [x] Received [144,Devotion]
+2023-09-17 22:32:51,954.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,955.consumer1.INFO  [x] Received [145,Master Gardener]
+2023-09-17 22:32:51,955.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,955.consumer1.INFO  [x] Received [146,Shortcomings]
+2023-09-17 22:32:51,955.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,956.consumer1.INFO  [x] Received [147,Corsage]
+2023-09-17 22:32:51,956.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,956.consumer1.INFO  [x] Received [148,EO]
+2023-09-17 22:32:51,956.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,956.consumer1.INFO  [x] Received [149,Shin Ultraman]
+2023-09-17 22:32:51,956.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,956.consumer1.INFO  [x] Received [150,The Thorn]
+2023-09-17 22:32:51,956.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,957.consumer1.INFO  [x] Received [151,The Way2023  Re-release]
+2023-09-17 22:32:51,957.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,957.consumer1.INFO  [x] Received [152,Of an Age]
+2023-09-17 22:32:51,957.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,957.consumer1.INFO  [x] Received [153,Sweetwater]
+2023-09-17 22:32:51,957.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,958.consumer1.INFO  [x] Received [154,Aftersun]
+2023-09-17 22:32:51,958.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,958.consumer1.INFO  [x] Received [155,Consecration]
+2023-09-17 22:32:51,958.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,958.consumer1.INFO  [x] Received [156,Sanctuary]
+2023-09-17 22:32:51,958.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,959.consumer1.INFO  [x] Received [157,Bottoms]
+2023-09-17 22:32:51,959.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,959.consumer1.INFO  [x] Received [158,Triangle of Sadness]
+2023-09-17 22:32:51,959.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,959.consumer1.INFO  [x] Received [159,Crouching Tiger, Hidden Dragon2023 Re-release]
+2023-09-17 22:32:51,959.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,960.consumer1.INFO  [x] Received [160,A Father's Heart]
+2023-09-17 22:32:51,960.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,960.consumer1.INFO  [x] Received [161,The Son]
+2023-09-17 22:32:51,960.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,960.consumer1.INFO  [x] Received [162,The Essential Church]
+2023-09-17 22:32:51,960.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,960.consumer1.INFO  [x] Received [163,Mending the Line]
+2023-09-17 22:32:51,960.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,961.consumer1.INFO  [x] Received [164,CatVideoFest 2023]
+2023-09-17 22:32:51,961.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,961.consumer1.INFO  [x] Received [165,Go West]
+2023-09-17 22:32:51,961.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,961.consumer1.INFO  [x] Received [166,Terrifier]
+2023-09-17 22:32:51,961.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,962.consumer1.INFO  [x] Received [167,Selfiee]
+2023-09-17 22:32:51,962.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,962.consumer1.INFO  [x] Received [168,Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb]
+2023-09-17 22:32:51,962.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,963.consumer1.INFO  [x] Received [169,Wild Life]
+2023-09-17 22:32:51,963.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,963.consumer1.INFO  [x] Received [170,Children of the Corn]
+2023-09-17 22:32:51,963.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,964.consumer1.INFO  [x] Received [171,Waltair Veerayya]
+2023-09-17 22:32:51,964.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,964.consumer1.INFO  [x] Received [172,The Lesson]
+2023-09-17 22:32:51,964.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,965.consumer1.INFO  [x] Received [173,Psycho-Pass: Providence]
+2023-09-17 22:32:51,965.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,965.consumer1.INFO  [x] Received [174,UFC 291: Poirier vs. Gaethje 2]
+2023-09-17 22:32:51,965.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,966.consumer1.INFO  [x] Received [175,Mirando Al Cielo]
+2023-09-17 22:32:51,966.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,966.consumer1.INFO  [x] Received [176,Joyland]
+2023-09-17 22:32:51,966.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,967.consumer1.INFO  [x] Received [177,Passages]
+2023-09-17 22:32:51,968.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,968.consumer1.INFO  [x] Received [178,Southern Gospel]
+2023-09-17 22:32:51,968.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,970.consumer1.INFO  [x] Received [179,School of Magical Animals]
+2023-09-17 22:32:51,970.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,973.consumer1.INFO  [x] Received [180,Dreamin' Wild]
+2023-09-17 22:32:51,973.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,975.consumer1.INFO  [x] Received [181,The Eight Mountains]
+2023-09-17 22:32:51,975.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,976.consumer1.INFO  [x] Received [182,Every Body]
+2023-09-17 22:32:51,977.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,979.consumer1.INFO  [x] Received [183,Empire of Light]
+2023-09-17 22:32:51,979.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,982.consumer1.INFO  [x] Received [184,Born to Fly]
+2023-09-17 22:32:51,982.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,982.consumer1.INFO  [x] Received [185,RRR Fan CelebRRRation2023 Re-release]
+2023-09-17 22:32:51,982.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,984.consumer1.INFO  [x] Received [186,Malum]
+2023-09-17 22:32:51,985.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,987.consumer1.INFO  [x] Received [187,All the Beauty and the Bloodshed]
+2023-09-17 22:32:51,987.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,988.consumer1.INFO  [x] Received [188,Saint Omer]
+2023-09-17 22:32:51,988.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,989.consumer1.INFO  [x] Received [189,Afire]
+2023-09-17 22:32:51,989.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,992.consumer1.INFO  [x] Received [190,One Fine Morning]
+2023-09-17 22:32:51,992.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,993.consumer1.INFO  [x] Received [191,Lourdes2022 Re-release]
+2023-09-17 22:32:51,993.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,994.consumer1.INFO  [x] Received [192,When You Finish Saving the World]
+2023-09-17 22:32:51,994.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,994.consumer1.INFO  [x] Received [193,Landscape with Invisible Hand]
+2023-09-17 22:32:51,994.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,994.consumer1.INFO  [x] Received [194,Lyle, Lyle, Crocodile]
+2023-09-17 22:32:51,994.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,995.consumer1.INFO  [x] Received [195,The Conformist2023 Re-release]
+2023-09-17 22:32:51,995.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,995.consumer1.INFO  [x] Received [196,Contempt4k Restoration - 60th Anniversary]
+2023-09-17 22:32:51,995.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,996.consumer1.INFO  [x] Received [197,The Wrath of Becky]
+2023-09-17 22:32:51,996.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,997.consumer1.INFO  [x] Received [198,The Starling Girl]
+2023-09-17 22:32:51,997.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,998.consumer1.INFO  [x] Received [199,¡Que viva México!]
+2023-09-17 22:32:51,998.consumer1.INFO  [x] Done.
+2023-09-17 22:32:51,998.consumer1.INFO  [x] Received [200,Enys Men]
+2023-09-17 22:32:51,998.consumer1.INFO  [x] Done.
